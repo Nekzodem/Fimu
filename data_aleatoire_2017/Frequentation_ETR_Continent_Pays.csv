@@ -1,0 +1,893 @@
+Date;JourDeLaSemaine;ZoneAnalyse;Continent;Pays;CategorieVisiteurs;TypeDeVisite;TypeDeJour;Volume
+2017-05-10;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;2046
+2017-05-10;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;2231
+2017-05-10;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-10;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;9868
+2017-05-11;Jeudi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;2032
+2017-05-11;Jeudi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;7263
+2017-05-11;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;5014
+2017-05-11;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-11;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;2815
+2017-05-12;Vendredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Asie;Chine;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;9103
+2017-05-12;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-12;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;7653
+2017-05-14;Dimanche;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;4845
+2017-05-14;Dimanche;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-14;Dimanche;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-14;Dimanche;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-14;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;438
+2017-05-14;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;7880
+2017-05-14;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-14;Dimanche;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-14;Dimanche;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-14;Dimanche;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-14;Dimanche;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-14;Dimanche;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-14;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;3862
+2017-05-14;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;5771
+2017-05-15;Lundi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;6749
+2017-05-15;Lundi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;615
+2017-05-15;Lundi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Russie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-15;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;8963
+2017-05-16;Mardi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;2644
+2017-05-16;Mardi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-16;Mardi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-16;Mardi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-16;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-16;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-16;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-16;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-16;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;3039
+2017-05-16;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;3797
+2017-05-16;Mardi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-16;Mardi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-16;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;722
+2017-05-16;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;9500
+2017-05-16;Mardi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-16;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;7779
+2017-05-16;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;4425
+2017-05-17;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Asie;Chine;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;3405
+2017-05-17;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-17;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;5096
+2017-05-18;Jeudi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Asie;Chine;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;4064
+2017-05-18;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;648
+2017-05-18;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-18;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;3837
+2017-05-19;Vendredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;5808
+2017-05-19;Vendredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;5097
+2017-05-19;Vendredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-19;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;3104
+2017-05-20;Samedi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;2531
+2017-05-20;Samedi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;9990
+2017-05-20;Samedi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;5995
+2017-05-20;Samedi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-20;Samedi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;4677
+2017-05-20;Samedi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;7189
+2017-05-21;Dimanche;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;6408
+2017-05-21;Dimanche;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-21;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;1892
+2017-05-22;Lundi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Asie;Chine;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Asie;Japon;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;3959
+2017-05-22;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;7433
+2017-05-22;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-22;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;6372
+2017-05-23;Mardi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;4705
+2017-05-23;Mardi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;9848
+2017-05-23;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;8994
+2017-05-23;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-23;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;8421
+2017-05-23;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;6962
+2017-05-24;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;8151
+2017-05-24;Mercredi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;6166
+2017-05-24;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;9159
+2017-05-24;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;2836
+2017-05-24;Mercredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-24;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;7319
+2017-05-25;Jeudi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;9469
+2017-05-25;Jeudi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-25;Jeudi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-25;Jeudi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-25;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;7655
+2017-05-25;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;2505
+2017-05-25;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-25;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;8326
+2017-05-25;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;5564
+2017-05-25;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-25;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-25;Jeudi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-25;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-25;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-25;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;1918
+2017-05-25;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;8186
+2017-05-26;Vendredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;7899
+2017-05-26;Vendredi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;1252
+2017-05-26;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;384
+2017-05-26;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;6156
+2017-05-26;Vendredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;6759
+2017-05-26;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-26;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;4975
+2017-05-26;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;868
+2017-05-27;Samedi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;2525
+2017-05-27;Samedi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;1488
+2017-05-27;Samedi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;4729
+2017-05-27;Samedi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;3064
+2017-05-27;Samedi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-27;Samedi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;5022
+2017-05-27;Samedi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;2443
+2017-05-27;Samedi;Zone FIMU;Oceanie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;5350
+2017-05-28;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;8550
+2017-05-28;Dimanche;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;3153
+2017-05-28;Dimanche;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;116
+2017-05-28;Dimanche;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;7388
+2017-05-28;Dimanche;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-28;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;4875
+2017-05-28;Dimanche;Zone FIMU;Oceanie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;2646
+2017-05-29;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;8993
+2017-05-29;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;9162
+2017-05-29;Lundi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;2046
+2017-05-29;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-29;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;4354
+2017-05-29;Lundi;Zone FIMU;Oceanie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;1067
+2017-05-30;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;4475
+2017-05-30;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;7332
+2017-05-30;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-30;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;7907
+2017-05-30;Mardi;Zone FIMU;Oceanie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;9471
+2017-05-31;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;1279
+2017-05-31;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;8441
+2017-05-31;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-05-31;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;5061
+2017-06-01;Jeudi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode evenement;8521
+2017-06-01;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode evenement;7769
+2017-06-01;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode evenement;8267
+2017-06-01;Jeudi;Zone FIMU;Europe;Russie;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-01;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode evenement;6758
+2017-06-02;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode evenement;70
+2017-06-02;Vendredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode evenement;9191
+2017-06-02;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-02;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode evenement;9224
+2017-06-02;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode evenement;9061
+2017-06-03;Samedi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode evenement;4484
+2017-06-03;Samedi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode evenement;3517
+2017-06-03;Samedi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode evenement;5177
+2017-06-03;Samedi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode evenement;395
+2017-06-03;Samedi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode evenement;9436
+2017-06-03;Samedi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode evenement;9080
+2017-06-03;Samedi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-03;Samedi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode evenement;1573
+2017-06-03;Samedi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode evenement;2798
+2017-06-04;Dimanche;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode evenement;2507
+2017-06-04;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode evenement;9046
+2017-06-04;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode evenement;5305
+2017-06-04;Dimanche;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode evenement;8717
+2017-06-04;Dimanche;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode evenement;4144
+2017-06-04;Dimanche;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode evenement;3513
+2017-06-04;Dimanche;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-04;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode evenement;6800
+2017-06-04;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode evenement;5000
+2017-06-05;Lundi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode evenement;6880
+2017-06-05;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode evenement;996
+2017-06-05;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode evenement;261
+2017-06-05;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode evenement;9865
+2017-06-05;Lundi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode evenement;690
+2017-06-05;Lundi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode evenement;#
+2017-06-05;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode evenement;7337
+2017-06-05;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode evenement;4447
+2017-06-06;Mardi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;5829
+2017-06-06;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-06;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;744
+2017-06-07;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-07;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;2777
+2017-06-08;Jeudi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;7505
+2017-06-08;Jeudi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;7914
+2017-06-08;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-08;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;4018
+2017-06-08;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;5345
+2017-06-08;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;1976
+2017-06-09;Vendredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;177
+2017-06-09;Vendredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;265
+2017-06-09;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;3920
+2017-06-09;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;9740
+2017-06-09;Vendredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;9549
+2017-06-09;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;153
+2017-06-09;Vendredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Russie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-09;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;3012
+2017-06-10;Samedi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;4161
+2017-06-10;Samedi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-10;Samedi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;6957
+2017-06-10;Samedi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;1007
+2017-06-11;Dimanche;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-11;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;5936
+2017-06-12;Lundi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;8338
+2017-06-12;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;5320
+2017-06-12;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-12;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;4347
+2017-06-13;Mardi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Asie;Japon;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;8992
+2017-06-13;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;5887
+2017-06-13;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;7781
+2017-06-13;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;7135
+2017-06-13;Mardi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Russie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-13;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;95
+2017-06-14;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;9497
+2017-06-14;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;1319
+2017-06-14;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;3341
+2017-06-14;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;7168
+2017-06-14;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Russie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-14;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;4146
+2017-06-15;Jeudi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Asie;Chine;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;5951
+2017-06-15;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;9906
+2017-06-15;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;3209
+2017-06-15;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;2051
+2017-06-15;Jeudi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;9772
+2017-06-15;Jeudi;Zone FIMU;Europe;Russie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-15;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;8554
+2017-06-16;Vendredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Amérique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Asie;Chine;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;7852
+2017-06-16;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;8206
+2017-06-16;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;8264
+2017-06-16;Vendredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;9128
+2017-06-16;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-16;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;3553
+2017-06-16;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;9884
+2017-06-17;Samedi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;2829
+2017-06-17;Samedi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;2638
+2017-06-17;Samedi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;7058
+2017-06-17;Samedi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;9354
+2017-06-17;Samedi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;4603
+2017-06-17;Samedi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-17;Samedi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;5561
+2017-06-17;Samedi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;3109
+2017-06-18;Dimanche;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;3091
+2017-06-18;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;8398
+2017-06-18;Dimanche;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-18;Dimanche;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;5283
+2017-06-19;Lundi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;9521
+2017-06-19;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;2611
+2017-06-19;Lundi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-19;Lundi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;2578
+2017-06-20;Mardi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Asie;Japon;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;7692
+2017-06-20;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-20;Mardi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;4583
+2017-06-21;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Amérique;États-Unis;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;788
+2017-06-21;Mercredi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;2642
+2017-06-21;Mercredi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Scandinavie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-21;Mercredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;2992
+2017-06-22;Jeudi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;2752
+2017-06-22;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Belgique+Luxembourg;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Italie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Italie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Royaume-Uni;Touriste Etranger;Visiteur;Periode normale;4349
+2017-06-22;Jeudi;Zone FIMU;Europe;Russie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-22;Jeudi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;7694
+2017-06-23;Vendredi;Zone FIMU;Afrique;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Asie;Asie Océanie;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Autre;Reste Du Monde;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Europe;Allemagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Europe;Autre pays d'Europe;Touriste Etranger;Visiteur;Periode normale;2832
+2017-06-23;Vendredi;Zone FIMU;Europe;Espagne;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Excursionniste;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Europe;Pays De L'Est;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Europe;Pays-Bas;Touriste Etranger;Visiteur;Periode normale;#
+2017-06-23;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Excursionniste;Periode normale;3195
+2017-06-23;Vendredi;Zone FIMU;Europe;Suisse;Touriste Etranger;Visiteur;Periode normale;2446
