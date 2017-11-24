@@ -1,0 +1,1902 @@
+Date;JourDeLaSemaine;Heure;ZoneAnalyse;Presence30Min;Continent;Pays;CategorieVisiteurs;TypeDeJour;Volume
+2017-05-10;Mercredi;00:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;78
+2017-05-10;Mercredi;01:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;78
+2017-05-10;Mercredi;02:30:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;89
+2017-05-10;Mercredi;06:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;56
+2017-05-10;Mercredi;08:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;08:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;#
+2017-05-10;Mercredi;09:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;09:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;33
+2017-05-10;Mercredi;09:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;26
+2017-05-10;Mercredi;10:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;10:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;34
+2017-05-10;Mercredi;10:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;10:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;54
+2017-05-10;Mercredi;11:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;11:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;38
+2017-05-10;Mercredi;12:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-10;Mercredi;12:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;12:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-10;Mercredi;12:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;33
+2017-05-10;Mercredi;12:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;78
+2017-05-10;Mercredi;13:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;13:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;34
+2017-05-10;Mercredi;14:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;14:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;14:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;34
+2017-05-10;Mercredi;14:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;27
+2017-05-10;Mercredi;15:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;15:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;27
+2017-05-10;Mercredi;15:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;15:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;34
+2017-05-10;Mercredi;16:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;45
+2017-05-10;Mercredi;16:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;#
+2017-05-10;Mercredi;17:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;34
+2017-05-10;Mercredi;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;26
+2017-05-10;Mercredi;17:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;29
+2017-05-10;Mercredi;17:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;63
+2017-05-10;Mercredi;18:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;63
+2017-05-10;Mercredi;18:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-05-10;Mercredi;18:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;70
+2017-05-10;Mercredi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-10;Mercredi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;57
+2017-05-10;Mercredi;19:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;46
+2017-05-10;Mercredi;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;46
+2017-05-10;Mercredi;20:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-05-10;Mercredi;20:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;46
+2017-05-10;Mercredi;23:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;54
+2017-05-10;Mercredi;23:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-05-11;Jeudi;08:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-11;Jeudi;08:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;54
+2017-05-11;Jeudi;09:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;168
+2017-05-11;Jeudi;10:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;47
+2017-05-11;Jeudi;11:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-11;Jeudi;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;37
+2017-05-11;Jeudi;13:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;46
+2017-05-11;Jeudi;13:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;57
+2017-05-11;Jeudi;14:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;69
+2017-05-11;Jeudi;14:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;31
+2017-05-11;Jeudi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-11;Jeudi;16:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;106
+2017-05-11;Jeudi;16:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-11;Jeudi;16:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;118
+2017-05-11;Jeudi;17:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;106
+2017-05-11;Jeudi;17:00:00;Zone FIMU;Present;Europe;Scandinavie;Touriste Etranger;Periode normale;55
+2017-05-11;Jeudi;17:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;106
+2017-05-11;Jeudi;17:30:00;Zone FIMU;Present;Europe;Scandinavie;Touriste Etranger;Periode normale;55
+2017-05-11;Jeudi;18:00:00;Zone FIMU;Present;Europe;Scandinavie;Touriste Etranger;Periode normale;55
+2017-05-11;Jeudi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-11;Jeudi;19:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;46
+2017-05-11;Jeudi;19:00:00;Zone FIMU;Present;Europe;Scandinavie;Touriste Etranger;Periode normale;55
+2017-05-11;Jeudi;19:30:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;125
+2017-05-11;Jeudi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;120
+2017-05-11;Jeudi;19:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-11;Jeudi;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;120
+2017-05-11;Jeudi;21:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;43
+2017-05-11;Jeudi;21:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-11;Jeudi;22:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-11;Jeudi;22:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-11;Jeudi;22:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-11;Jeudi;23:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-11;Jeudi;23:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;37
+2017-05-12;Vendredi;05:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-12;Vendredi;05:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-12;Vendredi;11:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-05-12;Vendredi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;43
+2017-05-12;Vendredi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-12;Vendredi;12:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;46
+2017-05-12;Vendredi;12:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;43
+2017-05-12;Vendredi;14:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;47
+2017-05-12;Vendredi;15:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;50
+2017-05-12;Vendredi;17:00:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;123
+2017-05-12;Vendredi;17:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;46
+2017-05-12;Vendredi;18:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;55
+2017-05-12;Vendredi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-12;Vendredi;19:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;45
+2017-05-12;Vendredi;20:30:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;59
+2017-05-12;Vendredi;20:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-05-12;Vendredi;21:30:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;123
+2017-05-12;Vendredi;22:00:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;123
+2017-05-12;Vendredi;22:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;94
+2017-05-12;Vendredi;22:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-05-12;Vendredi;23:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;55
+2017-05-13;Samedi;00:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;55
+2017-05-14;Dimanche;03:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;100
+2017-05-14;Dimanche;05:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;100
+2017-05-14;Dimanche;06:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;100
+2017-05-14;Dimanche;09:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;42
+2017-05-14;Dimanche;09:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;102
+2017-05-14;Dimanche;10:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-14;Dimanche;11:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;139
+2017-05-14;Dimanche;12:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;100
+2017-05-14;Dimanche;13:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-14;Dimanche;13:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;100
+2017-05-14;Dimanche;13:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-14;Dimanche;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;30
+2017-05-14;Dimanche;17:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;50
+2017-05-14;Dimanche;19:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;59
+2017-05-14;Dimanche;19:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-14;Dimanche;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;36
+2017-05-14;Dimanche;19:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;59
+2017-05-14;Dimanche;19:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;36
+2017-05-14;Dimanche;20:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-14;Dimanche;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;69
+2017-05-14;Dimanche;20:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;59
+2017-05-14;Dimanche;20:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;55
+2017-05-14;Dimanche;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;72
+2017-05-14;Dimanche;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;36
+2017-05-14;Dimanche;21:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;46
+2017-05-14;Dimanche;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-14;Dimanche;23:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-15;Lundi;00:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-15;Lundi;07:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-15;Lundi;07:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-05-15;Lundi;08:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;39
+2017-05-15;Lundi;08:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-15;Lundi;08:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-05-15;Lundi;09:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-15;Lundi;09:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;46
+2017-05-15;Lundi;10:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-15;Lundi;11:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;89
+2017-05-15;Lundi;11:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-15;Lundi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;36
+2017-05-15;Lundi;11:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-15;Lundi;12:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-15;Lundi;12:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;46
+2017-05-15;Lundi;13:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-15;Lundi;13:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;92
+2017-05-15;Lundi;14:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-15;Lundi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-05-15;Lundi;16:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-05-15;Lundi;17:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;22
+2017-05-15;Lundi;17:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;99
+2017-05-15;Lundi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;32
+2017-05-15;Lundi;19:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-15;Lundi;19:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-15;Lundi;20:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-15;Lundi;20:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;87
+2017-05-15;Lundi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;80
+2017-05-15;Lundi;20:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;44
+2017-05-15;Lundi;21:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-05-15;Lundi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;35
+2017-05-15;Lundi;22:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;22
+2017-05-15;Lundi;22:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;35
+2017-05-15;Lundi;23:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;87
+2017-05-15;Lundi;23:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;22
+2017-05-15;Lundi;23:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;69
+2017-05-16;Mardi;00:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;22
+2017-05-16;Mardi;01:00:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;121
+2017-05-16;Mardi;06:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;07:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;09:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;09:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;10:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;11:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;11:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;12:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;12:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;22
+2017-05-16;Mardi;12:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;13:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;14:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-05-16;Mardi;15:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-05-16;Mardi;15:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;73
+2017-05-16;Mardi;15:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-05-16;Mardi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;35
+2017-05-16;Mardi;17:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;31
+2017-05-16;Mardi;17:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-16;Mardi;17:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;69
+2017-05-16;Mardi;18:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;26
+2017-05-16;Mardi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;26
+2017-05-16;Mardi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;28
+2017-05-16;Mardi;19:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;23
+2017-05-16;Mardi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;56
+2017-05-16;Mardi;19:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;39
+2017-05-16;Mardi;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-16;Mardi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;26
+2017-05-16;Mardi;21:30:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;104
+2017-05-16;Mardi;22:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;75
+2017-05-16;Mardi;22:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-05-16;Mardi;22:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;39
+2017-05-16;Mardi;22:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;23
+2017-05-16;Mardi;22:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;39
+2017-05-16;Mardi;23:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;26
+2017-05-17;Mercredi;00:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-17;Mercredi;00:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;38
+2017-05-17;Mercredi;00:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;38
+2017-05-17;Mercredi;01:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;#
+2017-05-17;Mercredi;01:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;55
+2017-05-17;Mercredi;03:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;58
+2017-05-17;Mercredi;07:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;111
+2017-05-17;Mercredi;07:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-17;Mercredi;07:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;59
+2017-05-17;Mercredi;08:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-17;Mercredi;08:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;63
+2017-05-17;Mercredi;09:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-17;Mercredi;09:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;39
+2017-05-17;Mercredi;09:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-17;Mercredi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;31
+2017-05-17;Mercredi;11:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;45
+2017-05-17;Mercredi;12:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;38
+2017-05-17;Mercredi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;31
+2017-05-17;Mercredi;13:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;39
+2017-05-17;Mercredi;13:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-17;Mercredi;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;46
+2017-05-17;Mercredi;14:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode normale;51
+2017-05-17;Mercredi;15:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-17;Mercredi;15:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;123
+2017-05-17;Mercredi;15:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;39
+2017-05-17;Mercredi;16:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;29
+2017-05-17;Mercredi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;93
+2017-05-17;Mercredi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-17;Mercredi;17:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;58
+2017-05-17;Mercredi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-17;Mercredi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-17;Mercredi;18:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;31
+2017-05-17;Mercredi;19:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;38
+2017-05-17;Mercredi;19:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;33
+2017-05-17;Mercredi;20:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;33
+2017-05-17;Mercredi;20:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;33
+2017-05-17;Mercredi;21:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;36
+2017-05-17;Mercredi;22:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-18;Jeudi;03:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;84
+2017-05-18;Jeudi;04:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;84
+2017-05-18;Jeudi;04:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;84
+2017-05-18;Jeudi;05:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;84
+2017-05-18;Jeudi;06:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;111
+2017-05-18;Jeudi;06:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;41
+2017-05-18;Jeudi;07:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;111
+2017-05-18;Jeudi;07:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;84
+2017-05-18;Jeudi;07:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;84
+2017-05-18;Jeudi;07:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;31
+2017-05-18;Jeudi;07:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;46
+2017-05-18;Jeudi;08:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;84
+2017-05-18;Jeudi;08:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;84
+2017-05-18;Jeudi;09:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;30
+2017-05-18;Jeudi;09:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;39
+2017-05-18;Jeudi;09:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;73
+2017-05-18;Jeudi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;46
+2017-05-18;Jeudi;10:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;84
+2017-05-18;Jeudi;11:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;30
+2017-05-18;Jeudi;11:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;32
+2017-05-18;Jeudi;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;28
+2017-05-18;Jeudi;12:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;27
+2017-05-18;Jeudi;12:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;41
+2017-05-18;Jeudi;12:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;29
+2017-05-18;Jeudi;13:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;55
+2017-05-18;Jeudi;14:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;203
+2017-05-18;Jeudi;14:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;31
+2017-05-18;Jeudi;15:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;31
+2017-05-18;Jeudi;15:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;146
+2017-05-18;Jeudi;15:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-05-18;Jeudi;15:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;55
+2017-05-18;Jeudi;15:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-18;Jeudi;16:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-18;Jeudi;16:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;34
+2017-05-18;Jeudi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;35
+2017-05-18;Jeudi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;34
+2017-05-18;Jeudi;17:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;99
+2017-05-18;Jeudi;17:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;54
+2017-05-18;Jeudi;17:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;53
+2017-05-18;Jeudi;18:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;94
+2017-05-18;Jeudi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;35
+2017-05-18;Jeudi;19:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;77
+2017-05-18;Jeudi;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;50
+2017-05-18;Jeudi;20:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;99
+2017-05-18;Jeudi;21:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;99
+2017-05-18;Jeudi;21:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;90
+2017-05-18;Jeudi;21:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;99
+2017-05-18;Jeudi;22:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;52
+2017-05-18;Jeudi;22:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;94
+2017-05-18;Jeudi;23:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;59
+2017-05-19;Vendredi;00:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;35
+2017-05-19;Vendredi;00:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;35
+2017-05-19;Vendredi;05:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;61
+2017-05-19;Vendredi;05:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;61
+2017-05-19;Vendredi;05:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;52
+2017-05-19;Vendredi;06:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;52
+2017-05-19;Vendredi;08:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;59
+2017-05-19;Vendredi;08:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;54
+2017-05-19;Vendredi;08:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-05-19;Vendredi;10:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;116
+2017-05-19;Vendredi;10:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;116
+2017-05-19;Vendredi;10:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;36
+2017-05-19;Vendredi;11:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;65
+2017-05-19;Vendredi;11:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;#
+2017-05-19;Vendredi;12:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;#
+2017-05-19;Vendredi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;56
+2017-05-19;Vendredi;12:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;86
+2017-05-19;Vendredi;12:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;34
+2017-05-19;Vendredi;13:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-19;Vendredi;13:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;38
+2017-05-19;Vendredi;13:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;38
+2017-05-19;Vendredi;14:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;24
+2017-05-19;Vendredi;14:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;74
+2017-05-19;Vendredi;15:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-19;Vendredi;16:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;30
+2017-05-19;Vendredi;16:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;39
+2017-05-19;Vendredi;16:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;46
+2017-05-19;Vendredi;17:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-19;Vendredi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;26
+2017-05-19;Vendredi;17:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;40
+2017-05-19;Vendredi;18:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;26
+2017-05-19;Vendredi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-19;Vendredi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-19;Vendredi;19:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;39
+2017-05-19;Vendredi;19:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-19;Vendredi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-19;Vendredi;20:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-19;Vendredi;20:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;101
+2017-05-19;Vendredi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-19;Vendredi;21:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-19;Vendredi;21:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-19;Vendredi;22:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-19;Vendredi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-19;Vendredi;22:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-19;Vendredi;22:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-19;Vendredi;23:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;101
+2017-05-19;Vendredi;23:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-20;Samedi;09:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-20;Samedi;10:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;26
+2017-05-20;Samedi;11:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;#
+2017-05-20;Samedi;11:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;23
+2017-05-20;Samedi;11:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;41
+2017-05-20;Samedi;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;32
+2017-05-20;Samedi;12:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;25
+2017-05-20;Samedi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;62
+2017-05-20;Samedi;12:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;50
+2017-05-20;Samedi;13:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-05-20;Samedi;13:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-05-20;Samedi;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;50
+2017-05-20;Samedi;14:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;110
+2017-05-20;Samedi;14:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-20;Samedi;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;33
+2017-05-20;Samedi;14:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;69
+2017-05-20;Samedi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;50
+2017-05-20;Samedi;15:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;33
+2017-05-20;Samedi;15:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-20;Samedi;15:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;50
+2017-05-20;Samedi;19:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;63
+2017-05-20;Samedi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-20;Samedi;19:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;81
+2017-05-20;Samedi;20:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;110
+2017-05-20;Samedi;22:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;91
+2017-05-20;Samedi;22:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;44
+2017-05-20;Samedi;23:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-20;Samedi;23:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;21
+2017-05-21;Dimanche;04:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;91
+2017-05-21;Dimanche;08:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;60
+2017-05-21;Dimanche;09:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-21;Dimanche;10:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-05-21;Dimanche;11:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;134
+2017-05-21;Dimanche;11:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-05-21;Dimanche;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;42
+2017-05-21;Dimanche;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;29
+2017-05-21;Dimanche;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;42
+2017-05-21;Dimanche;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-05-21;Dimanche;12:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;39
+2017-05-21;Dimanche;13:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;29
+2017-05-21;Dimanche;13:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;52
+2017-05-21;Dimanche;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;50
+2017-05-21;Dimanche;17:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;46
+2017-05-21;Dimanche;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;42
+2017-05-21;Dimanche;17:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-21;Dimanche;17:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;31
+2017-05-21;Dimanche;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-21;Dimanche;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-21;Dimanche;20:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;33
+2017-05-21;Dimanche;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;41
+2017-05-21;Dimanche;22:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;37
+2017-05-21;Dimanche;22:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;88
+2017-05-22;Lundi;08:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;120
+2017-05-22;Lundi;08:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-05-22;Lundi;09:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;37
+2017-05-22;Lundi;09:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;42
+2017-05-22;Lundi;10:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;21
+2017-05-22;Lundi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;42
+2017-05-22;Lundi;10:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;79
+2017-05-22;Lundi;10:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-05-22;Lundi;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;40
+2017-05-22;Lundi;12:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;115
+2017-05-22;Lundi;12:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;115
+2017-05-22;Lundi;13:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;79
+2017-05-22;Lundi;14:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-22;Lundi;14:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;79
+2017-05-22;Lundi;14:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;42
+2017-05-22;Lundi;15:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-22;Lundi;15:00:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;126
+2017-05-22;Lundi;15:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-22;Lundi;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;39
+2017-05-22;Lundi;16:00:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;126
+2017-05-22;Lundi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;121
+2017-05-22;Lundi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;67
+2017-05-22;Lundi;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-05-22;Lundi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;32
+2017-05-22;Lundi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-22;Lundi;19:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;79
+2017-05-22;Lundi;20:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;37
+2017-05-22;Lundi;21:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;37
+2017-05-22;Lundi;21:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;37
+2017-05-22;Lundi;22:00:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;252
+2017-05-22;Lundi;23:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-23;Mardi;07:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;56
+2017-05-23;Mardi;08:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;134
+2017-05-23;Mardi;08:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-23;Mardi;08:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-05-23;Mardi;10:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;56
+2017-05-23;Mardi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-05-23;Mardi;12:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-23;Mardi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;208
+2017-05-23;Mardi;12:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;84
+2017-05-23;Mardi;12:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;35
+2017-05-23;Mardi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;50
+2017-05-23;Mardi;13:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;37
+2017-05-23;Mardi;14:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-23;Mardi;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-05-23;Mardi;14:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;71
+2017-05-23;Mardi;15:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-05-23;Mardi;15:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-23;Mardi;15:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;71
+2017-05-23;Mardi;15:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-23;Mardi;16:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-23;Mardi;16:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;71
+2017-05-23;Mardi;16:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;97
+2017-05-23;Mardi;16:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-05-23;Mardi;16:30:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;126
+2017-05-23;Mardi;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;37
+2017-05-23;Mardi;17:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-23;Mardi;18:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;71
+2017-05-23;Mardi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-23;Mardi;19:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-23;Mardi;20:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;71
+2017-05-23;Mardi;20:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;42
+2017-05-23;Mardi;20:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-05-23;Mardi;20:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-05-24;Mercredi;07:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;135
+2017-05-24;Mercredi;07:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-24;Mercredi;07:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;46
+2017-05-24;Mercredi;08:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;135
+2017-05-24;Mercredi;08:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-24;Mercredi;08:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;135
+2017-05-24;Mercredi;09:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;142
+2017-05-24;Mercredi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-05-24;Mercredi;10:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-05-24;Mercredi;10:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;103
+2017-05-24;Mercredi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-05-24;Mercredi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-24;Mercredi;13:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;70
+2017-05-24;Mercredi;13:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;90
+2017-05-24;Mercredi;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-24;Mercredi;14:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-24;Mercredi;14:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;78
+2017-05-24;Mercredi;14:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;70
+2017-05-24;Mercredi;15:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-24;Mercredi;15:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;63
+2017-05-24;Mercredi;15:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;57
+2017-05-24;Mercredi;16:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;47
+2017-05-24;Mercredi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;28
+2017-05-24;Mercredi;16:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;62
+2017-05-24;Mercredi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;109
+2017-05-24;Mercredi;17:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-24;Mercredi;17:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;71
+2017-05-24;Mercredi;17:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;36
+2017-05-24;Mercredi;18:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-24;Mercredi;18:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-24;Mercredi;18:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;27
+2017-05-24;Mercredi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;65
+2017-05-24;Mercredi;19:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;46
+2017-05-24;Mercredi;20:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;98
+2017-05-24;Mercredi;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;78
+2017-05-24;Mercredi;20:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;36
+2017-05-24;Mercredi;21:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;36
+2017-05-24;Mercredi;21:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;138
+2017-05-24;Mercredi;22:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;41
+2017-05-24;Mercredi;23:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;31
+2017-05-24;Mercredi;23:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-25;Jeudi;08:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;78
+2017-05-25;Jeudi;10:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-25;Jeudi;10:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;69
+2017-05-25;Jeudi;10:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;65
+2017-05-25;Jeudi;10:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;41
+2017-05-25;Jeudi;10:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-05-25;Jeudi;11:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-25;Jeudi;11:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;31
+2017-05-25;Jeudi;12:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;84
+2017-05-25;Jeudi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;91
+2017-05-25;Jeudi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-05-25;Jeudi;13:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;29
+2017-05-25;Jeudi;13:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;46
+2017-05-25;Jeudi;13:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;28
+2017-05-25;Jeudi;13:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;29
+2017-05-25;Jeudi;14:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;33
+2017-05-25;Jeudi;14:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;51
+2017-05-25;Jeudi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;37
+2017-05-25;Jeudi;15:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-25;Jeudi;15:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;51
+2017-05-25;Jeudi;15:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;41
+2017-05-25;Jeudi;15:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-25;Jeudi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-25;Jeudi;17:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-25;Jeudi;17:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;28
+2017-05-25;Jeudi;17:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-25;Jeudi;18:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-25;Jeudi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-25;Jeudi;19:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;46
+2017-05-25;Jeudi;20:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;49
+2017-05-25;Jeudi;20:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-25;Jeudi;21:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;41
+2017-05-25;Jeudi;21:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;41
+2017-05-25;Jeudi;23:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;49
+2017-05-25;Jeudi;23:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-26;Vendredi;08:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;37
+2017-05-26;Vendredi;08:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-05-26;Vendredi;08:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;103
+2017-05-26;Vendredi;10:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;47
+2017-05-26;Vendredi;10:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-05-26;Vendredi;11:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;90
+2017-05-26;Vendredi;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;34
+2017-05-26;Vendredi;12:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;40
+2017-05-26;Vendredi;12:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;44
+2017-05-26;Vendredi;13:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;68
+2017-05-26;Vendredi;13:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-05-26;Vendredi;13:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;34
+2017-05-26;Vendredi;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;46
+2017-05-26;Vendredi;14:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;33
+2017-05-26;Vendredi;14:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;52
+2017-05-26;Vendredi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;31
+2017-05-26;Vendredi;15:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;106
+2017-05-26;Vendredi;16:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;59
+2017-05-26;Vendredi;16:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;60
+2017-05-26;Vendredi;16:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;48
+2017-05-26;Vendredi;16:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-05-26;Vendredi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;21
+2017-05-26;Vendredi;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;84
+2017-05-26;Vendredi;17:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;44
+2017-05-26;Vendredi;17:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;68
+2017-05-26;Vendredi;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;82
+2017-05-26;Vendredi;17:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;61
+2017-05-26;Vendredi;17:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;58
+2017-05-26;Vendredi;17:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;113
+2017-05-26;Vendredi;18:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;67
+2017-05-26;Vendredi;18:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;30
+2017-05-26;Vendredi;18:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;66
+2017-05-26;Vendredi;18:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;66
+2017-05-26;Vendredi;18:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;50
+2017-05-26;Vendredi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;35
+2017-05-26;Vendredi;19:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;77
+2017-05-26;Vendredi;19:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;50
+2017-05-26;Vendredi;19:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;45
+2017-05-26;Vendredi;20:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;86
+2017-05-26;Vendredi;20:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;40
+2017-05-26;Vendredi;20:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;45
+2017-05-26;Vendredi;21:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;33
+2017-05-26;Vendredi;21:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;57
+2017-05-26;Vendredi;22:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;44
+2017-05-26;Vendredi;22:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;92
+2017-05-26;Vendredi;22:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;100
+2017-05-26;Vendredi;23:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;59
+2017-05-27;Samedi;08:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;56
+2017-05-27;Samedi;08:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;40
+2017-05-27;Samedi;08:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;67
+2017-05-27;Samedi;09:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;46
+2017-05-27;Samedi;09:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;77
+2017-05-27;Samedi;10:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;150
+2017-05-27;Samedi;11:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;103
+2017-05-27;Samedi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;69
+2017-05-27;Samedi;11:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;52
+2017-05-27;Samedi;12:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;108
+2017-05-27;Samedi;12:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;40
+2017-05-27;Samedi;12:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;72
+2017-05-27;Samedi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;67
+2017-05-27;Samedi;13:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;49
+2017-05-27;Samedi;13:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;35
+2017-05-27;Samedi;13:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;47
+2017-05-27;Samedi;13:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;40
+2017-05-27;Samedi;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-05-27;Samedi;14:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;59
+2017-05-27;Samedi;14:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;40
+2017-05-27;Samedi;14:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;72
+2017-05-27;Samedi;14:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-27;Samedi;15:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;41
+2017-05-27;Samedi;15:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;37
+2017-05-27;Samedi;15:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;114
+2017-05-27;Samedi;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-05-27;Samedi;15:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-05-27;Samedi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;83
+2017-05-27;Samedi;16:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;41
+2017-05-27;Samedi;17:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;41
+2017-05-27;Samedi;17:00:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;82
+2017-05-27;Samedi;17:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;36
+2017-05-27;Samedi;17:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;41
+2017-05-27;Samedi;17:30:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;82
+2017-05-27;Samedi;18:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-05-27;Samedi;18:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;115
+2017-05-27;Samedi;18:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;65
+2017-05-27;Samedi;19:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;63
+2017-05-27;Samedi;19:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;139
+2017-05-27;Samedi;20:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;85
+2017-05-27;Samedi;20:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;173
+2017-05-27;Samedi;20:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;79
+2017-05-27;Samedi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;35
+2017-05-27;Samedi;20:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;93
+2017-05-27;Samedi;20:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;51
+2017-05-27;Samedi;20:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;61
+2017-05-27;Samedi;20:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;53
+2017-05-27;Samedi;21:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;177
+2017-05-27;Samedi;21:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-05-27;Samedi;21:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;103
+2017-05-27;Samedi;22:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;209
+2017-05-27;Samedi;22:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;106
+2017-05-27;Samedi;23:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;91
+2017-05-27;Samedi;23:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;106
+2017-05-28;Dimanche;00:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;99
+2017-05-28;Dimanche;01:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;39
+2017-05-28;Dimanche;06:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;71
+2017-05-28;Dimanche;06:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;172
+2017-05-28;Dimanche;07:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;172
+2017-05-28;Dimanche;08:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;172
+2017-05-28;Dimanche;08:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;172
+2017-05-28;Dimanche;08:30:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;105
+2017-05-28;Dimanche;09:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;43
+2017-05-28;Dimanche;10:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;91
+2017-05-28;Dimanche;10:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;106
+2017-05-28;Dimanche;10:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;35
+2017-05-28;Dimanche;10:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;43
+2017-05-28;Dimanche;11:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;91
+2017-05-28;Dimanche;12:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;106
+2017-05-28;Dimanche;12:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;91
+2017-05-28;Dimanche;12:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;53
+2017-05-28;Dimanche;13:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;69
+2017-05-28;Dimanche;13:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;61
+2017-05-28;Dimanche;13:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;45
+2017-05-28;Dimanche;13:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;91
+2017-05-28;Dimanche;14:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;91
+2017-05-28;Dimanche;14:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;76
+2017-05-28;Dimanche;14:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;217
+2017-05-28;Dimanche;14:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;43
+2017-05-28;Dimanche;14:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;217
+2017-05-28;Dimanche;15:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;106
+2017-05-28;Dimanche;16:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;35
+2017-05-28;Dimanche;16:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;149
+2017-05-28;Dimanche;17:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;50
+2017-05-28;Dimanche;17:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;50
+2017-05-28;Dimanche;18:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;62
+2017-05-28;Dimanche;18:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;171
+2017-05-28;Dimanche;19:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;86
+2017-05-28;Dimanche;19:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;82
+2017-05-28;Dimanche;19:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-05-28;Dimanche;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;147
+2017-05-28;Dimanche;20:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;49
+2017-05-28;Dimanche;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;105
+2017-05-28;Dimanche;21:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;74
+2017-05-28;Dimanche;22:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;44
+2017-05-28;Dimanche;23:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;177
+2017-05-29;Lundi;01:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;168
+2017-05-29;Lundi;03:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;177
+2017-05-29;Lundi;04:00:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;108
+2017-05-29;Lundi;05:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;177
+2017-05-29;Lundi;06:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;177
+2017-05-29;Lundi;06:30:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;108
+2017-05-29;Lundi;08:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;110
+2017-05-29;Lundi;08:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;42
+2017-05-29;Lundi;08:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;90
+2017-05-29;Lundi;08:30:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;108
+2017-05-29;Lundi;09:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;93
+2017-05-29;Lundi;10:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;55
+2017-05-29;Lundi;10:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;93
+2017-05-29;Lundi;10:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;113
+2017-05-29;Lundi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;62
+2017-05-29;Lundi;11:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;104
+2017-05-29;Lundi;12:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;35
+2017-05-29;Lundi;13:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;52
+2017-05-29;Lundi;14:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;38
+2017-05-29;Lundi;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;140
+2017-05-29;Lundi;17:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;35
+2017-05-29;Lundi;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-05-29;Lundi;17:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;23
+2017-05-29;Lundi;17:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-05-29;Lundi;17:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;32
+2017-05-29;Lundi;17:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-05-29;Lundi;17:30:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;79
+2017-05-29;Lundi;18:00:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;79
+2017-05-29;Lundi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;32
+2017-05-29;Lundi;19:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;99
+2017-05-29;Lundi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;34
+2017-05-29;Lundi;19:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;47
+2017-05-29;Lundi;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;47
+2017-05-29;Lundi;20:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;105
+2017-05-29;Lundi;20:00:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;83
+2017-05-29;Lundi;20:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;172
+2017-05-29;Lundi;20:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;57
+2017-05-29;Lundi;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;32
+2017-05-29;Lundi;21:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;172
+2017-05-29;Lundi;22:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;82
+2017-05-29;Lundi;23:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;57
+2017-05-30;Mardi;00:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;57
+2017-05-30;Mardi;07:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;34
+2017-05-30;Mardi;08:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;136
+2017-05-30;Mardi;08:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;57
+2017-05-30;Mardi;08:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;80
+2017-05-30;Mardi;10:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;68
+2017-05-30;Mardi;10:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;114
+2017-05-30;Mardi;10:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;99
+2017-05-30;Mardi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;35
+2017-05-30;Mardi;11:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;106
+2017-05-30;Mardi;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;115
+2017-05-30;Mardi;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;46
+2017-05-30;Mardi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-05-30;Mardi;12:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;88
+2017-05-30;Mardi;12:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;53
+2017-05-30;Mardi;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;42
+2017-05-30;Mardi;14:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;49
+2017-05-30;Mardi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;57
+2017-05-30;Mardi;15:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;94
+2017-05-30;Mardi;15:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;96
+2017-05-30;Mardi;15:30:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;101
+2017-05-30;Mardi;16:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;136
+2017-05-30;Mardi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;36
+2017-05-30;Mardi;17:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;58
+2017-05-30;Mardi;17:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;35
+2017-05-30;Mardi;17:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;58
+2017-05-30;Mardi;17:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;50
+2017-05-30;Mardi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;35
+2017-05-30;Mardi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;61
+2017-05-30;Mardi;20:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;181
+2017-05-30;Mardi;20:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;181
+2017-05-30;Mardi;21:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;75
+2017-05-30;Mardi;22:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;136
+2017-05-30;Mardi;22:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;75
+2017-05-30;Mardi;22:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;25
+2017-05-30;Mardi;23:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;49
+2017-05-31;Mercredi;03:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;57
+2017-05-31;Mercredi;03:30:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;48
+2017-05-31;Mercredi;06:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;136
+2017-05-31;Mercredi;07:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;143
+2017-05-31;Mercredi;08:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;136
+2017-05-31;Mercredi;08:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;130
+2017-05-31;Mercredi;11:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;75
+2017-05-31;Mercredi;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;60
+2017-05-31;Mercredi;12:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;49
+2017-05-31;Mercredi;13:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;83
+2017-05-31;Mercredi;13:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;75
+2017-05-31;Mercredi;13:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;49
+2017-05-31;Mercredi;15:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;67
+2017-05-31;Mercredi;15:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;42
+2017-05-31;Mercredi;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;30
+2017-05-31;Mercredi;16:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;57
+2017-05-31;Mercredi;17:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;64
+2017-05-31;Mercredi;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;53
+2017-05-31;Mercredi;18:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;77
+2017-05-31;Mercredi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;36
+2017-05-31;Mercredi;18:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;79
+2017-05-31;Mercredi;18:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;61
+2017-05-31;Mercredi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;74
+2017-05-31;Mercredi;19:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;132
+2017-05-31;Mercredi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;34
+2017-05-31;Mercredi;19:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;63
+2017-05-31;Mercredi;20:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;24
+2017-05-31;Mercredi;20:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;58
+2017-05-31;Mercredi;21:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;58
+2017-06-01;Jeudi;01:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;24
+2017-06-01;Jeudi;01:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;24
+2017-06-01;Jeudi;02:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;24
+2017-06-01;Jeudi;02:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;24
+2017-06-01;Jeudi;07:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode evenement;89
+2017-06-01;Jeudi;07:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;51
+2017-06-01;Jeudi;09:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;82
+2017-06-01;Jeudi;09:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;33
+2017-06-01;Jeudi;09:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;58
+2017-06-01;Jeudi;10:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;120
+2017-06-01;Jeudi;11:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode evenement;55
+2017-06-01;Jeudi;11:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;63
+2017-06-01;Jeudi;13:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;67
+2017-06-01;Jeudi;14:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;55
+2017-06-01;Jeudi;15:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;40
+2017-06-01;Jeudi;15:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;42
+2017-06-01;Jeudi;15:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;34
+2017-06-01;Jeudi;16:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;40
+2017-06-01;Jeudi;16:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;60
+2017-06-01;Jeudi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;#
+2017-06-01;Jeudi;17:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;40
+2017-06-01;Jeudi;17:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;77
+2017-06-01;Jeudi;17:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode evenement;88
+2017-06-01;Jeudi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;36
+2017-06-01;Jeudi;18:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;58
+2017-06-01;Jeudi;18:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;34
+2017-06-01;Jeudi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;37
+2017-06-01;Jeudi;18:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;35
+2017-06-01;Jeudi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;65
+2017-06-01;Jeudi;19:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;51
+2017-06-01;Jeudi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;37
+2017-06-01;Jeudi;20:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;67
+2017-06-01;Jeudi;21:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;80
+2017-06-01;Jeudi;21:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;48
+2017-06-02;Vendredi;00:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;34
+2017-06-02;Vendredi;00:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;78
+2017-06-02;Vendredi;02:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;51
+2017-06-02;Vendredi;02:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;51
+2017-06-02;Vendredi;03:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode evenement;113
+2017-06-02;Vendredi;06:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode evenement;113
+2017-06-02;Vendredi;07:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode evenement;148
+2017-06-02;Vendredi;07:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;41
+2017-06-02;Vendredi;08:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode evenement;148
+2017-06-02;Vendredi;10:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode evenement;84
+2017-06-02;Vendredi;10:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;58
+2017-06-02;Vendredi;10:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;33
+2017-06-02;Vendredi;10:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;51
+2017-06-02;Vendredi;11:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;64
+2017-06-02;Vendredi;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;47
+2017-06-02;Vendredi;12:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode evenement;45
+2017-06-02;Vendredi;12:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;34
+2017-06-02;Vendredi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;27
+2017-06-02;Vendredi;12:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode evenement;60
+2017-06-02;Vendredi;12:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;57
+2017-06-02;Vendredi;13:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;81
+2017-06-02;Vendredi;13:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;64
+2017-06-02;Vendredi;13:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;52
+2017-06-02;Vendredi;13:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;46
+2017-06-02;Vendredi;14:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;81
+2017-06-02;Vendredi;14:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;48
+2017-06-02;Vendredi;14:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;50
+2017-06-02;Vendredi;14:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;42
+2017-06-02;Vendredi;15:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;67
+2017-06-02;Vendredi;15:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;197
+2017-06-02;Vendredi;15:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;122
+2017-06-02;Vendredi;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;26
+2017-06-02;Vendredi;15:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;46
+2017-06-02;Vendredi;16:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;31
+2017-06-02;Vendredi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;39
+2017-06-02;Vendredi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;39
+2017-06-02;Vendredi;16:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;36
+2017-06-02;Vendredi;17:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;28
+2017-06-02;Vendredi;17:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;37
+2017-06-02;Vendredi;17:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;43
+2017-06-02;Vendredi;17:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;77
+2017-06-02;Vendredi;18:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;41
+2017-06-02;Vendredi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;31
+2017-06-02;Vendredi;18:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;110
+2017-06-02;Vendredi;18:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;46
+2017-06-02;Vendredi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;31
+2017-06-02;Vendredi;18:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;37
+2017-06-02;Vendredi;18:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode evenement;144
+2017-06-02;Vendredi;18:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;29
+2017-06-02;Vendredi;19:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;27
+2017-06-02;Vendredi;19:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;41
+2017-06-02;Vendredi;19:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;36
+2017-06-02;Vendredi;19:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;30
+2017-06-02;Vendredi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;36
+2017-06-02;Vendredi;19:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;47
+2017-06-02;Vendredi;20:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode evenement;74
+2017-06-02;Vendredi;20:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;143
+2017-06-02;Vendredi;20:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;51
+2017-06-02;Vendredi;20:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;40
+2017-06-02;Vendredi;20:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;58
+2017-06-02;Vendredi;21:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;46
+2017-06-02;Vendredi;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;139
+2017-06-02;Vendredi;21:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;41
+2017-06-02;Vendredi;21:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;129
+2017-06-02;Vendredi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;62
+2017-06-02;Vendredi;22:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;102
+2017-06-02;Vendredi;22:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;212
+2017-06-02;Vendredi;22:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;238
+2017-06-02;Vendredi;22:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;88
+2017-06-02;Vendredi;23:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;104
+2017-06-02;Vendredi;23:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;189
+2017-06-02;Vendredi;23:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;49
+2017-06-02;Vendredi;23:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;60
+2017-06-03;Samedi;00:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;58
+2017-06-03;Samedi;00:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;50
+2017-06-03;Samedi;01:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;49
+2017-06-03;Samedi;01:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;49
+2017-06-03;Samedi;04:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;71
+2017-06-03;Samedi;04:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;60
+2017-06-03;Samedi;07:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode evenement;129
+2017-06-03;Samedi;07:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;49
+2017-06-03;Samedi;08:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;49
+2017-06-03;Samedi;08:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;42
+2017-06-03;Samedi;08:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;49
+2017-06-03;Samedi;09:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;63
+2017-06-03;Samedi;09:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;185
+2017-06-03;Samedi;10:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;58
+2017-06-03;Samedi;10:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;145
+2017-06-03;Samedi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;52
+2017-06-03;Samedi;10:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;30
+2017-06-03;Samedi;10:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;38
+2017-06-03;Samedi;10:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;58
+2017-06-03;Samedi;10:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;142
+2017-06-03;Samedi;11:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;43
+2017-06-03;Samedi;11:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;28
+2017-06-03;Samedi;11:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;59
+2017-06-03;Samedi;11:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;49
+2017-06-03;Samedi;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;26
+2017-06-03;Samedi;11:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;56
+2017-06-03;Samedi;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;46
+2017-06-03;Samedi;12:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;38
+2017-06-03;Samedi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;106
+2017-06-03;Samedi;12:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;124
+2017-06-03;Samedi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;45
+2017-06-03;Samedi;12:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;69
+2017-06-03;Samedi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;45
+2017-06-03;Samedi;13:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;42
+2017-06-03;Samedi;13:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;102
+2017-06-03;Samedi;13:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;46
+2017-06-03;Samedi;13:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode evenement;112
+2017-06-03;Samedi;13:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;23
+2017-06-03;Samedi;13:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;70
+2017-06-03;Samedi;13:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;33
+2017-06-03;Samedi;13:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;29
+2017-06-03;Samedi;14:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;30
+2017-06-03;Samedi;14:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;24
+2017-06-03;Samedi;14:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;81
+2017-06-03;Samedi;14:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;33
+2017-06-03;Samedi;14:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;140
+2017-06-03;Samedi;14:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;64
+2017-06-03;Samedi;15:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;47
+2017-06-03;Samedi;15:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;68
+2017-06-03;Samedi;15:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;111
+2017-06-03;Samedi;15:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;29
+2017-06-03;Samedi;15:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;22
+2017-06-03;Samedi;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;103
+2017-06-03;Samedi;16:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;#
+2017-06-03;Samedi;16:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;22
+2017-06-03;Samedi;16:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;66
+2017-06-03;Samedi;16:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;36
+2017-06-03;Samedi;16:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;44
+2017-06-03;Samedi;16:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode evenement;53
+2017-06-03;Samedi;16:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;24
+2017-06-03;Samedi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;32
+2017-06-03;Samedi;16:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;40
+2017-06-03;Samedi;16:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;65
+2017-06-03;Samedi;16:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;60
+2017-06-03;Samedi;17:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode evenement;102
+2017-06-03;Samedi;17:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;49
+2017-06-03;Samedi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;35
+2017-06-03;Samedi;17:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;31
+2017-06-03;Samedi;17:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;65
+2017-06-03;Samedi;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;54
+2017-06-03;Samedi;17:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode evenement;104
+2017-06-03;Samedi;17:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;125
+2017-06-03;Samedi;17:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;31
+2017-06-03;Samedi;18:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;44
+2017-06-03;Samedi;18:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode evenement;45
+2017-06-03;Samedi;18:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;49
+2017-06-03;Samedi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;77
+2017-06-03;Samedi;18:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;120
+2017-06-03;Samedi;18:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;65
+2017-06-03;Samedi;18:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;53
+2017-06-03;Samedi;18:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;50
+2017-06-03;Samedi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;97
+2017-06-03;Samedi;18:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;42
+2017-06-03;Samedi;18:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;66
+2017-06-03;Samedi;18:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;54
+2017-06-03;Samedi;19:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode evenement;65
+2017-06-03;Samedi;19:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;55
+2017-06-03;Samedi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;39
+2017-06-03;Samedi;19:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;34
+2017-06-03;Samedi;19:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;72
+2017-06-03;Samedi;19:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;90
+2017-06-03;Samedi;19:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode evenement;70
+2017-06-03;Samedi;19:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;144
+2017-06-03;Samedi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;42
+2017-06-03;Samedi;19:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;42
+2017-06-03;Samedi;20:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;41
+2017-06-03;Samedi;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;95
+2017-06-03;Samedi;20:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;107
+2017-06-03;Samedi;20:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;146
+2017-06-03;Samedi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;84
+2017-06-03;Samedi;20:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;147
+2017-06-03;Samedi;21:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;55
+2017-06-03;Samedi;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;136
+2017-06-03;Samedi;21:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;93
+2017-06-03;Samedi;21:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;142
+2017-06-03;Samedi;21:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;41
+2017-06-03;Samedi;21:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;190
+2017-06-03;Samedi;22:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;51
+2017-06-03;Samedi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;74
+2017-06-03;Samedi;22:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;54
+2017-06-03;Samedi;22:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;119
+2017-06-03;Samedi;22:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode evenement;170
+2017-06-03;Samedi;22:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;73
+2017-06-03;Samedi;22:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;112
+2017-06-03;Samedi;22:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;46
+2017-06-03;Samedi;22:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;104
+2017-06-03;Samedi;22:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;51
+2017-06-03;Samedi;22:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;66
+2017-06-03;Samedi;23:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;81
+2017-06-03;Samedi;23:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;166
+2017-06-03;Samedi;23:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;87
+2017-06-03;Samedi;23:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;36
+2017-06-03;Samedi;23:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;131
+2017-06-03;Samedi;23:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;110
+2017-06-03;Samedi;23:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;107
+2017-06-03;Samedi;23:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;45
+2017-06-03;Samedi;23:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;73
+2017-06-04;Dimanche;00:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;116
+2017-06-04;Dimanche;00:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;127
+2017-06-04;Dimanche;00:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;90
+2017-06-04;Dimanche;00:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;202
+2017-06-04;Dimanche;00:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;109
+2017-06-04;Dimanche;00:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;90
+2017-06-04;Dimanche;01:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;79
+2017-06-04;Dimanche;02:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;75
+2017-06-04;Dimanche;02:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;51
+2017-06-04;Dimanche;03:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;51
+2017-06-04;Dimanche;06:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;176
+2017-06-04;Dimanche;07:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;45
+2017-06-04;Dimanche;07:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;54
+2017-06-04;Dimanche;08:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;90
+2017-06-04;Dimanche;08:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;114
+2017-06-04;Dimanche;08:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;54
+2017-06-04;Dimanche;09:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;82
+2017-06-04;Dimanche;09:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;166
+2017-06-04;Dimanche;09:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;91
+2017-06-04;Dimanche;09:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;153
+2017-06-04;Dimanche;10:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;52
+2017-06-04;Dimanche;10:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;50
+2017-06-04;Dimanche;10:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;101
+2017-06-04;Dimanche;11:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;179
+2017-06-04;Dimanche;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;48
+2017-06-04;Dimanche;11:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;243
+2017-06-04;Dimanche;11:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;71
+2017-06-04;Dimanche;11:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;58
+2017-06-04;Dimanche;12:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;116
+2017-06-04;Dimanche;12:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;30
+2017-06-04;Dimanche;12:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;104
+2017-06-04;Dimanche;12:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;39
+2017-06-04;Dimanche;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;102
+2017-06-04;Dimanche;13:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode evenement;62
+2017-06-04;Dimanche;13:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;129
+2017-06-04;Dimanche;13:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;121
+2017-06-04;Dimanche;13:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;46
+2017-06-04;Dimanche;13:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;68
+2017-06-04;Dimanche;13:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;54
+2017-06-04;Dimanche;13:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;54
+2017-06-04;Dimanche;13:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;77
+2017-06-04;Dimanche;13:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;92
+2017-06-04;Dimanche;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;55
+2017-06-04;Dimanche;14:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;60
+2017-06-04;Dimanche;14:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;124
+2017-06-04;Dimanche;14:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;58
+2017-06-04;Dimanche;14:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;119
+2017-06-04;Dimanche;14:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;103
+2017-06-04;Dimanche;14:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode evenement;185
+2017-06-04;Dimanche;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;61
+2017-06-04;Dimanche;14:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;73
+2017-06-04;Dimanche;14:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;125
+2017-06-04;Dimanche;15:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;77
+2017-06-04;Dimanche;15:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;104
+2017-06-04;Dimanche;15:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;157
+2017-06-04;Dimanche;15:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;77
+2017-06-04;Dimanche;15:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;108
+2017-06-04;Dimanche;15:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;67
+2017-06-04;Dimanche;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;45
+2017-06-04;Dimanche;15:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;157
+2017-06-04;Dimanche;16:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;313
+2017-06-04;Dimanche;16:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;87
+2017-06-04;Dimanche;16:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;79
+2017-06-04;Dimanche;16:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;131
+2017-06-04;Dimanche;16:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode evenement;181
+2017-06-04;Dimanche;16:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;60
+2017-06-04;Dimanche;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;58
+2017-06-04;Dimanche;16:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;115
+2017-06-04;Dimanche;16:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;77
+2017-06-04;Dimanche;16:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;46
+2017-06-04;Dimanche;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;58
+2017-06-04;Dimanche;17:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;67
+2017-06-04;Dimanche;17:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;203
+2017-06-04;Dimanche;17:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;50
+2017-06-04;Dimanche;17:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;116
+2017-06-04;Dimanche;17:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;37
+2017-06-04;Dimanche;17:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;82
+2017-06-04;Dimanche;17:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;68
+2017-06-04;Dimanche;17:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;180
+2017-06-04;Dimanche;17:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;259
+2017-06-04;Dimanche;17:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;56
+2017-06-04;Dimanche;18:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;67
+2017-06-04;Dimanche;18:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;60
+2017-06-04;Dimanche;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;90
+2017-06-04;Dimanche;18:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;51
+2017-06-04;Dimanche;18:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;39
+2017-06-04;Dimanche;18:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;45
+2017-06-04;Dimanche;18:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;65
+2017-06-04;Dimanche;18:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;117
+2017-06-04;Dimanche;18:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;74
+2017-06-04;Dimanche;19:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;167
+2017-06-04;Dimanche;19:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;51
+2017-06-04;Dimanche;19:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;91
+2017-06-04;Dimanche;19:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;56
+2017-06-04;Dimanche;19:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode evenement;104
+2017-06-04;Dimanche;19:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;233
+2017-06-04;Dimanche;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;112
+2017-06-04;Dimanche;19:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;65
+2017-06-04;Dimanche;19:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;33
+2017-06-04;Dimanche;20:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode evenement;102
+2017-06-04;Dimanche;20:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;126
+2017-06-04;Dimanche;20:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;53
+2017-06-04;Dimanche;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;46
+2017-06-04;Dimanche;20:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;68
+2017-06-04;Dimanche;20:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;56
+2017-06-04;Dimanche;20:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode evenement;101
+2017-06-04;Dimanche;20:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;180
+2017-06-04;Dimanche;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;37
+2017-06-04;Dimanche;20:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;121
+2017-06-04;Dimanche;21:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;25
+2017-06-04;Dimanche;21:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;58
+2017-06-04;Dimanche;21:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;110
+2017-06-04;Dimanche;21:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;45
+2017-06-04;Dimanche;21:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;59
+2017-06-04;Dimanche;21:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;224
+2017-06-04;Dimanche;21:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;50
+2017-06-04;Dimanche;21:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;211
+2017-06-04;Dimanche;22:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;63
+2017-06-04;Dimanche;22:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;56
+2017-06-04;Dimanche;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;180
+2017-06-04;Dimanche;22:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;117
+2017-06-04;Dimanche;22:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;212
+2017-06-04;Dimanche;22:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;43
+2017-06-04;Dimanche;22:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;64
+2017-06-04;Dimanche;22:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;80
+2017-06-04;Dimanche;23:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;101
+2017-06-04;Dimanche;23:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;57
+2017-06-04;Dimanche;23:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;56
+2017-06-04;Dimanche;23:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;47
+2017-06-04;Dimanche;23:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;82
+2017-06-04;Dimanche;23:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;154
+2017-06-04;Dimanche;23:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;88
+2017-06-04;Dimanche;23:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;50
+2017-06-04;Dimanche;23:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;55
+2017-06-04;Dimanche;23:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;42
+2017-06-04;Dimanche;23:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;163
+2017-06-05;Lundi;00:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;213
+2017-06-05;Lundi;00:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;44
+2017-06-05;Lundi;00:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;47
+2017-06-05;Lundi;00:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;82
+2017-06-05;Lundi;00:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;128
+2017-06-05;Lundi;00:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;44
+2017-06-05;Lundi;00:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;38
+2017-06-05;Lundi;00:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode evenement;82
+2017-06-05;Lundi;01:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;37
+2017-06-05;Lundi;06:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode evenement;67
+2017-06-05;Lundi;07:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;66
+2017-06-05;Lundi;08:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;66
+2017-06-05;Lundi;08:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode evenement;122
+2017-06-05;Lundi;09:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;66
+2017-06-05;Lundi;09:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;66
+2017-06-05;Lundi;10:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;54
+2017-06-05;Lundi;10:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;66
+2017-06-05;Lundi;10:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;24
+2017-06-05;Lundi;10:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;27
+2017-06-05;Lundi;11:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;36
+2017-06-05;Lundi;11:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;21
+2017-06-05;Lundi;11:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;24
+2017-06-05;Lundi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;86
+2017-06-05;Lundi;11:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;54
+2017-06-05;Lundi;11:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;23
+2017-06-05;Lundi;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;100
+2017-06-05;Lundi;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;33
+2017-06-05;Lundi;12:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;41
+2017-06-05;Lundi;12:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;77
+2017-06-05;Lundi;12:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;27
+2017-06-05;Lundi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;24
+2017-06-05;Lundi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;41
+2017-06-05;Lundi;12:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;46
+2017-06-05;Lundi;12:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;23
+2017-06-05;Lundi;12:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode evenement;45
+2017-06-05;Lundi;12:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;78
+2017-06-05;Lundi;13:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode evenement;53
+2017-06-05;Lundi;13:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;44
+2017-06-05;Lundi;13:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;64
+2017-06-05;Lundi;13:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;53
+2017-06-05;Lundi;13:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;76
+2017-06-05;Lundi;13:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;32
+2017-06-05;Lundi;13:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode evenement;176
+2017-06-05;Lundi;14:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;37
+2017-06-05;Lundi;14:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;53
+2017-06-05;Lundi;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;48
+2017-06-05;Lundi;14:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;47
+2017-06-05;Lundi;14:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;57
+2017-06-05;Lundi;14:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;56
+2017-06-05;Lundi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;50
+2017-06-05;Lundi;15:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode evenement;51
+2017-06-05;Lundi;15:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;54
+2017-06-05;Lundi;15:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;58
+2017-06-05;Lundi;15:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode evenement;80
+2017-06-05;Lundi;15:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;25
+2017-06-05;Lundi;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;100
+2017-06-05;Lundi;15:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;42
+2017-06-05;Lundi;16:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;121
+2017-06-05;Lundi;16:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;113
+2017-06-05;Lundi;16:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;46
+2017-06-05;Lundi;16:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode evenement;55
+2017-06-05;Lundi;16:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;112
+2017-06-05;Lundi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;33
+2017-06-05;Lundi;16:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;56
+2017-06-05;Lundi;16:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;31
+2017-06-05;Lundi;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;92
+2017-06-05;Lundi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;36
+2017-06-05;Lundi;17:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;69
+2017-06-05;Lundi;17:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;154
+2017-06-05;Lundi;17:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;29
+2017-06-05;Lundi;17:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;32
+2017-06-05;Lundi;18:00:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode evenement;121
+2017-06-05;Lundi;18:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode evenement;59
+2017-06-05;Lundi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;91
+2017-06-05;Lundi;18:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;211
+2017-06-05;Lundi;18:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;66
+2017-06-05;Lundi;18:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;54
+2017-06-05;Lundi;18:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;39
+2017-06-05;Lundi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;37
+2017-06-05;Lundi;18:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode evenement;58
+2017-06-05;Lundi;18:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;107
+2017-06-05;Lundi;18:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;62
+2017-06-05;Lundi;19:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;81
+2017-06-05;Lundi;19:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;99
+2017-06-05;Lundi;19:30:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode evenement;161
+2017-06-05;Lundi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;61
+2017-06-05;Lundi;19:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;41
+2017-06-05;Lundi;20:00:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode evenement;161
+2017-06-05;Lundi;20:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode evenement;36
+2017-06-05;Lundi;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;134
+2017-06-05;Lundi;20:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;91
+2017-06-05;Lundi;20:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;44
+2017-06-05;Lundi;20:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;40
+2017-06-05;Lundi;20:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;44
+2017-06-05;Lundi;21:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode evenement;40
+2017-06-05;Lundi;21:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;44
+2017-06-05;Lundi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;93
+2017-06-05;Lundi;22:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;41
+2017-06-05;Lundi;22:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode evenement;60
+2017-06-05;Lundi;22:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;87
+2017-06-05;Lundi;22:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode evenement;71
+2017-06-05;Lundi;23:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode evenement;44
+2017-06-05;Lundi;23:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode evenement;59
+2017-06-06;Mardi;08:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;42
+2017-06-06;Mardi;08:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;53
+2017-06-06;Mardi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;52
+2017-06-06;Mardi;10:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;96
+2017-06-06;Mardi;11:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;37
+2017-06-06;Mardi;11:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;71
+2017-06-06;Mardi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;83
+2017-06-06;Mardi;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;37
+2017-06-06;Mardi;12:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;40
+2017-06-06;Mardi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;88
+2017-06-06;Mardi;12:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;99
+2017-06-06;Mardi;12:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;43
+2017-06-06;Mardi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;43
+2017-06-06;Mardi;13:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;45
+2017-06-06;Mardi;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;107
+2017-06-06;Mardi;14:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;35
+2017-06-06;Mardi;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-06;Mardi;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-06;Mardi;18:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;44
+2017-06-06;Mardi;18:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-06;Mardi;19:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;224
+2017-06-06;Mardi;19:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;122
+2017-06-06;Mardi;20:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;49
+2017-06-06;Mardi;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;44
+2017-06-06;Mardi;20:30:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;120
+2017-06-06;Mardi;20:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;37
+2017-06-06;Mardi;21:00:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;120
+2017-06-06;Mardi;21:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;37
+2017-06-06;Mardi;21:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;44
+2017-06-06;Mardi;21:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;37
+2017-06-07;Mercredi;02:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;44
+2017-06-07;Mercredi;02:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;44
+2017-06-07;Mercredi;03:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;44
+2017-06-07;Mercredi;05:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;122
+2017-06-07;Mercredi;06:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;122
+2017-06-07;Mercredi;08:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode normale;59
+2017-06-07;Mercredi;08:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;122
+2017-06-07;Mercredi;08:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;52
+2017-06-07;Mercredi;08:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-07;Mercredi;09:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;122
+2017-06-07;Mercredi;09:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-07;Mercredi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;48
+2017-06-07;Mercredi;11:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;41
+2017-06-07;Mercredi;12:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;23
+2017-06-07;Mercredi;12:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-07;Mercredi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;26
+2017-06-07;Mercredi;13:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-06-07;Mercredi;13:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-06-07;Mercredi;15:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;37
+2017-06-07;Mercredi;16:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;105
+2017-06-07;Mercredi;16:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode normale;61
+2017-06-07;Mercredi;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;55
+2017-06-07;Mercredi;17:00:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;124
+2017-06-07;Mercredi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-06-07;Mercredi;17:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;43
+2017-06-07;Mercredi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-06-07;Mercredi;18:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;37
+2017-06-07;Mercredi;19:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;45
+2017-06-07;Mercredi;19:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-06-07;Mercredi;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;32
+2017-06-07;Mercredi;20:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;40
+2017-06-07;Mercredi;20:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-07;Mercredi;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;37
+2017-06-07;Mercredi;21:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;47
+2017-06-07;Mercredi;21:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;67
+2017-06-07;Mercredi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;218
+2017-06-07;Mercredi;23:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;67
+2017-06-08;Jeudi;00:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;51
+2017-06-08;Jeudi;07:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;46
+2017-06-08;Jeudi;07:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;51
+2017-06-08;Jeudi;08:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode normale;74
+2017-06-08;Jeudi;08:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;51
+2017-06-08;Jeudi;08:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;51
+2017-06-08;Jeudi;09:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;46
+2017-06-08;Jeudi;10:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-06-08;Jeudi;11:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;46
+2017-06-08;Jeudi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-06-08;Jeudi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;24
+2017-06-08;Jeudi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;77
+2017-06-08;Jeudi;12:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;35
+2017-06-08;Jeudi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;40
+2017-06-08;Jeudi;13:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;34
+2017-06-08;Jeudi;13:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;27
+2017-06-08;Jeudi;13:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;130
+2017-06-08;Jeudi;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;41
+2017-06-08;Jeudi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;29
+2017-06-08;Jeudi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;29
+2017-06-08;Jeudi;18:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;59
+2017-06-08;Jeudi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;25
+2017-06-08;Jeudi;20:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;62
+2017-06-08;Jeudi;20:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;40
+2017-06-08;Jeudi;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;148
+2017-06-08;Jeudi;21:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;47
+2017-06-08;Jeudi;21:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;50
+2017-06-08;Jeudi;21:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;47
+2017-06-08;Jeudi;22:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;36
+2017-06-08;Jeudi;22:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;47
+2017-06-08;Jeudi;23:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;50
+2017-06-08;Jeudi;23:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;46
+2017-06-08;Jeudi;23:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;94
+2017-06-09;Vendredi;05:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;40
+2017-06-09;Vendredi;06:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;29
+2017-06-09;Vendredi;08:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;47
+2017-06-09;Vendredi;09:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;34
+2017-06-09;Vendredi;09:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;34
+2017-06-09;Vendredi;10:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;68
+2017-06-09;Vendredi;10:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;46
+2017-06-09;Vendredi;10:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;50
+2017-06-09;Vendredi;11:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;49
+2017-06-09;Vendredi;11:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-06-09;Vendredi;12:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;74
+2017-06-09;Vendredi;13:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;37
+2017-06-09;Vendredi;13:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;30
+2017-06-09;Vendredi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;53
+2017-06-09;Vendredi;15:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;100
+2017-06-09;Vendredi;15:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;37
+2017-06-09;Vendredi;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;54
+2017-06-09;Vendredi;16:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;112
+2017-06-09;Vendredi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;33
+2017-06-09;Vendredi;16:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;97
+2017-06-09;Vendredi;17:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;39
+2017-06-09;Vendredi;18:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;46
+2017-06-09;Vendredi;19:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;39
+2017-06-09;Vendredi;19:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;56
+2017-06-09;Vendredi;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;47
+2017-06-09;Vendredi;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;65
+2017-06-09;Vendredi;20:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;97
+2017-06-09;Vendredi;20:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;59
+2017-06-09;Vendredi;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;114
+2017-06-09;Vendredi;21:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;59
+2017-06-09;Vendredi;21:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;65
+2017-06-09;Vendredi;21:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;56
+2017-06-09;Vendredi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;114
+2017-06-09;Vendredi;23:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;114
+2017-06-10;Samedi;06:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;47
+2017-06-10;Samedi;08:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;82
+2017-06-10;Samedi;09:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;47
+2017-06-10;Samedi;10:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;47
+2017-06-10;Samedi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;147
+2017-06-10;Samedi;11:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;83
+2017-06-10;Samedi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;67
+2017-06-10;Samedi;13:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;25
+2017-06-10;Samedi;13:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;24
+2017-06-10;Samedi;13:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;28
+2017-06-10;Samedi;13:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;23
+2017-06-10;Samedi;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;34
+2017-06-10;Samedi;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;70
+2017-06-10;Samedi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;35
+2017-06-10;Samedi;15:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;38
+2017-06-10;Samedi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;138
+2017-06-10;Samedi;16:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;47
+2017-06-10;Samedi;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;27
+2017-06-10;Samedi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;111
+2017-06-10;Samedi;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;27
+2017-06-10;Samedi;18:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;52
+2017-06-10;Samedi;18:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;53
+2017-06-10;Samedi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;50
+2017-06-10;Samedi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;36
+2017-06-10;Samedi;19:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;40
+2017-06-10;Samedi;19:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-06-10;Samedi;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;94
+2017-06-10;Samedi;21:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;34
+2017-06-10;Samedi;21:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;78
+2017-06-10;Samedi;21:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;99
+2017-06-10;Samedi;21:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;135
+2017-06-10;Samedi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;71
+2017-06-10;Samedi;22:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;78
+2017-06-10;Samedi;22:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;48
+2017-06-10;Samedi;23:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;48
+2017-06-11;Dimanche;01:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;34
+2017-06-11;Dimanche;01:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;34
+2017-06-11;Dimanche;06:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;76
+2017-06-11;Dimanche;08:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;41
+2017-06-11;Dimanche;09:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;51
+2017-06-11;Dimanche;10:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;57
+2017-06-11;Dimanche;11:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;158
+2017-06-11;Dimanche;13:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;158
+2017-06-11;Dimanche;13:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;99
+2017-06-11;Dimanche;14:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;76
+2017-06-11;Dimanche;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;59
+2017-06-11;Dimanche;15:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;158
+2017-06-11;Dimanche;15:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;78
+2017-06-11;Dimanche;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;48
+2017-06-11;Dimanche;16:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;135
+2017-06-11;Dimanche;16:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;34
+2017-06-11;Dimanche;16:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;48
+2017-06-11;Dimanche;16:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;48
+2017-06-11;Dimanche;17:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;48
+2017-06-11;Dimanche;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;59
+2017-06-11;Dimanche;17:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;45
+2017-06-11;Dimanche;17:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;76
+2017-06-11;Dimanche;17:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;48
+2017-06-11;Dimanche;19:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;61
+2017-06-11;Dimanche;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;63
+2017-06-11;Dimanche;19:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;57
+2017-06-11;Dimanche;19:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;44
+2017-06-11;Dimanche;20:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;41
+2017-06-11;Dimanche;20:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;153
+2017-06-11;Dimanche;20:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;44
+2017-06-11;Dimanche;21:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;100
+2017-06-11;Dimanche;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;41
+2017-06-12;Lundi;07:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;88
+2017-06-12;Lundi;07:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;57
+2017-06-12;Lundi;09:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;158
+2017-06-12;Lundi;09:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;40
+2017-06-12;Lundi;09:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;132
+2017-06-12;Lundi;09:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;69
+2017-06-12;Lundi;10:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;40
+2017-06-12;Lundi;10:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;88
+2017-06-12;Lundi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;59
+2017-06-12;Lundi;10:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;29
+2017-06-12;Lundi;10:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;78
+2017-06-12;Lundi;11:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;28
+2017-06-12;Lundi;11:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;#
+2017-06-12;Lundi;11:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;38
+2017-06-12;Lundi;11:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;44
+2017-06-12;Lundi;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-06-12;Lundi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;36
+2017-06-12;Lundi;12:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;38
+2017-06-12;Lundi;13:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;38
+2017-06-12;Lundi;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;54
+2017-06-12;Lundi;14:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;38
+2017-06-12;Lundi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;100
+2017-06-12;Lundi;15:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;88
+2017-06-12;Lundi;15:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;33
+2017-06-12;Lundi;15:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;82
+2017-06-12;Lundi;16:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;#
+2017-06-12;Lundi;16:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;75
+2017-06-12;Lundi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;30
+2017-06-12;Lundi;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-12;Lundi;17:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;79
+2017-06-12;Lundi;18:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;#
+2017-06-12;Lundi;18:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;38
+2017-06-12;Lundi;18:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;41
+2017-06-12;Lundi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-06-12;Lundi;18:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-12;Lundi;18:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;#
+2017-06-12;Lundi;18:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-12;Lundi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;54
+2017-06-12;Lundi;19:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;49
+2017-06-12;Lundi;19:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-06-12;Lundi;19:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;28
+2017-06-12;Lundi;20:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;54
+2017-06-12;Lundi;20:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;41
+2017-06-12;Lundi;21:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;54
+2017-06-12;Lundi;21:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-06-12;Lundi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;91
+2017-06-12;Lundi;23:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-13;Mardi;03:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;82
+2017-06-13;Mardi;04:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;82
+2017-06-13;Mardi;06:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;82
+2017-06-13;Mardi;06:30:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;85
+2017-06-13;Mardi;07:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;22
+2017-06-13;Mardi;08:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;30
+2017-06-13;Mardi;09:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;103
+2017-06-13;Mardi;09:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;83
+2017-06-13;Mardi;11:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;86
+2017-06-13;Mardi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;96
+2017-06-13;Mardi;12:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;31
+2017-06-13;Mardi;14:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;34
+2017-06-13;Mardi;16:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;33
+2017-06-13;Mardi;16:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;80
+2017-06-13;Mardi;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-13;Mardi;18:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;64
+2017-06-13;Mardi;19:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;53
+2017-06-13;Mardi;20:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-13;Mardi;20:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;26
+2017-06-13;Mardi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;75
+2017-06-13;Mardi;20:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-13;Mardi;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;106
+2017-06-13;Mardi;21:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-13;Mardi;22:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;36
+2017-06-13;Mardi;22:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;36
+2017-06-14;Mercredi;07:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;36
+2017-06-14;Mercredi;09:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;26
+2017-06-14;Mercredi;09:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-14;Mercredi;10:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;58
+2017-06-14;Mercredi;10:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;72
+2017-06-14;Mercredi;11:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;35
+2017-06-14;Mercredi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-06-14;Mercredi;12:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;33
+2017-06-14;Mercredi;13:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-14;Mercredi;13:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-06-14;Mercredi;13:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;36
+2017-06-14;Mercredi;15:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;105
+2017-06-14;Mercredi;15:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;65
+2017-06-14;Mercredi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;55
+2017-06-14;Mercredi;17:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;40
+2017-06-14;Mercredi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;55
+2017-06-14;Mercredi;18:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;80
+2017-06-14;Mercredi;18:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;41
+2017-06-14;Mercredi;19:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;159
+2017-06-14;Mercredi;19:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;41
+2017-06-14;Mercredi;20:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;45
+2017-06-14;Mercredi;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;49
+2017-06-14;Mercredi;20:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;38
+2017-06-14;Mercredi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;121
+2017-06-14;Mercredi;21:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;82
+2017-06-14;Mercredi;22:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;51
+2017-06-14;Mercredi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;62
+2017-06-14;Mercredi;22:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;51
+2017-06-14;Mercredi;22:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;77
+2017-06-14;Mercredi;23:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;41
+2017-06-14;Mercredi;23:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;49
+2017-06-15;Jeudi;00:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;49
+2017-06-15;Jeudi;04:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;109
+2017-06-15;Jeudi;07:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;87
+2017-06-15;Jeudi;08:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;49
+2017-06-15;Jeudi;09:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;169
+2017-06-15;Jeudi;09:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;70
+2017-06-15;Jeudi;10:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;72
+2017-06-15;Jeudi;10:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;47
+2017-06-15;Jeudi;10:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;70
+2017-06-15;Jeudi;11:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;70
+2017-06-15;Jeudi;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-06-15;Jeudi;12:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;38
+2017-06-15;Jeudi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;52
+2017-06-15;Jeudi;12:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;72
+2017-06-15;Jeudi;13:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;38
+2017-06-15;Jeudi;13:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;42
+2017-06-15;Jeudi;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-06-15;Jeudi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;43
+2017-06-15;Jeudi;15:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;43
+2017-06-15;Jeudi;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;36
+2017-06-15;Jeudi;15:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;94
+2017-06-15;Jeudi;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;51
+2017-06-15;Jeudi;18:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;34
+2017-06-15;Jeudi;18:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;29
+2017-06-15;Jeudi;18:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;68
+2017-06-15;Jeudi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;29
+2017-06-15;Jeudi;19:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;68
+2017-06-15;Jeudi;19:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;51
+2017-06-15;Jeudi;19:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;43
+2017-06-15;Jeudi;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;42
+2017-06-15;Jeudi;20:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;68
+2017-06-15;Jeudi;20:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;43
+2017-06-15;Jeudi;20:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;43
+2017-06-15;Jeudi;21:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;93
+2017-06-15;Jeudi;21:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;69
+2017-06-15;Jeudi;22:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;45
+2017-06-15;Jeudi;22:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;69
+2017-06-15;Jeudi;22:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;81
+2017-06-15;Jeudi;22:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;100
+2017-06-15;Jeudi;23:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;187
+2017-06-16;Vendredi;00:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;42
+2017-06-16;Vendredi;03:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;51
+2017-06-16;Vendredi;04:00:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;34
+2017-06-16;Vendredi;04:30:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;96
+2017-06-16;Vendredi;05:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;51
+2017-06-16;Vendredi;05:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;93
+2017-06-16;Vendredi;06:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;51
+2017-06-16;Vendredi;06:30:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;41
+2017-06-16;Vendredi;07:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;143
+2017-06-16;Vendredi;07:00:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;96
+2017-06-16;Vendredi;07:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;105
+2017-06-16;Vendredi;07:30:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;46
+2017-06-16;Vendredi;08:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;163
+2017-06-16;Vendredi;08:00:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;46
+2017-06-16;Vendredi;08:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;163
+2017-06-16;Vendredi;08:30:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;109
+2017-06-16;Vendredi;08:30:00;Zone FIMU;Present;Europe;Russie;Touriste Etranger;Periode normale;39
+2017-06-16;Vendredi;09:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;40
+2017-06-16;Vendredi;10:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;40
+2017-06-16;Vendredi;10:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-16;Vendredi;10:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;33
+2017-06-16;Vendredi;10:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;57
+2017-06-16;Vendredi;10:30:00;Zone FIMU;Present;Oceanie;Asie Océanie;Touriste Etranger;Periode normale;38
+2017-06-16;Vendredi;11:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-16;Vendredi;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-06-16;Vendredi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-06-16;Vendredi;12:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;38
+2017-06-16;Vendredi;13:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;38
+2017-06-16;Vendredi;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;30
+2017-06-16;Vendredi;14:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;32
+2017-06-16;Vendredi;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;34
+2017-06-16;Vendredi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;34
+2017-06-16;Vendredi;15:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;70
+2017-06-16;Vendredi;16:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;43
+2017-06-16;Vendredi;17:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;56
+2017-06-16;Vendredi;17:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-16;Vendredi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;104
+2017-06-16;Vendredi;17:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-16;Vendredi;17:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;52
+2017-06-16;Vendredi;18:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;72
+2017-06-16;Vendredi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-16;Vendredi;18:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;51
+2017-06-16;Vendredi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;65
+2017-06-16;Vendredi;19:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-16;Vendredi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-16;Vendredi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;52
+2017-06-16;Vendredi;20:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;69
+2017-06-16;Vendredi;21:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;69
+2017-06-16;Vendredi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;52
+2017-06-16;Vendredi;22:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;26
+2017-06-16;Vendredi;22:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;184
+2017-06-16;Vendredi;22:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;82
+2017-06-16;Vendredi;23:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;42
+2017-06-17;Samedi;00:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;34
+2017-06-17;Samedi;04:00:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;96
+2017-06-17;Samedi;05:30:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;96
+2017-06-17;Samedi;07:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;32
+2017-06-17;Samedi;07:00:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;96
+2017-06-17;Samedi;07:30:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;96
+2017-06-17;Samedi;08:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;42
+2017-06-17;Samedi;10:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-17;Samedi;11:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-06-17;Samedi;11:00:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;61
+2017-06-17;Samedi;11:30:00;Zone FIMU;Present;Amérique;Reste Du Monde;Touriste Etranger;Periode normale;60
+2017-06-17;Samedi;11:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;69
+2017-06-17;Samedi;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-06-17;Samedi;11:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;61
+2017-06-17;Samedi;12:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;104
+2017-06-17;Samedi;12:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;52
+2017-06-17;Samedi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;101
+2017-06-17;Samedi;12:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;96
+2017-06-17;Samedi;12:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;46
+2017-06-17;Samedi;13:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-17;Samedi;14:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-17;Samedi;15:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;43
+2017-06-17;Samedi;16:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;41
+2017-06-17;Samedi;16:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;36
+2017-06-17;Samedi;16:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;51
+2017-06-17;Samedi;17:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;36
+2017-06-17;Samedi;18:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;42
+2017-06-17;Samedi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;29
+2017-06-17;Samedi;19:00:00;Zone FIMU;Present;Europe;Scandinavie;Touriste Etranger;Periode normale;115
+2017-06-17;Samedi;19:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;21
+2017-06-17;Samedi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-17;Samedi;21:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;33
+2017-06-17;Samedi;21:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;72
+2017-06-17;Samedi;21:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;42
+2017-06-17;Samedi;21:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;108
+2017-06-17;Samedi;22:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;108
+2017-06-17;Samedi;23:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-18;Dimanche;00:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;42
+2017-06-18;Dimanche;01:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;42
+2017-06-18;Dimanche;01:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-18;Dimanche;06:30:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;92
+2017-06-18;Dimanche;07:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-18;Dimanche;07:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;67
+2017-06-18;Dimanche;08:00:00;Zone FIMU;Present;Asie;Chine;Touriste Etranger;Periode normale;92
+2017-06-18;Dimanche;09:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-18;Dimanche;09:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;102
+2017-06-18;Dimanche;11:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;46
+2017-06-18;Dimanche;12:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-18;Dimanche;12:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;69
+2017-06-18;Dimanche;12:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-18;Dimanche;13:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-18;Dimanche;16:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;69
+2017-06-18;Dimanche;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-18;Dimanche;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;110
+2017-06-18;Dimanche;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;59
+2017-06-18;Dimanche;18:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;69
+2017-06-18;Dimanche;20:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;21
+2017-06-18;Dimanche;20:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-18;Dimanche;21:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;46
+2017-06-18;Dimanche;21:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;72
+2017-06-18;Dimanche;21:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;42
+2017-06-18;Dimanche;22:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-18;Dimanche;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;72
+2017-06-18;Dimanche;22:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;29
+2017-06-18;Dimanche;23:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;46
+2017-06-19;Lundi;05:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;69
+2017-06-19;Lundi;06:30:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;41
+2017-06-19;Lundi;06:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;55
+2017-06-19;Lundi;07:00:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;41
+2017-06-19;Lundi;09:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;36
+2017-06-19;Lundi;09:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;49
+2017-06-19;Lundi;09:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;63
+2017-06-19;Lundi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;76
+2017-06-19;Lundi;11:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;25
+2017-06-19;Lundi;11:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;43
+2017-06-19;Lundi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;51
+2017-06-19;Lundi;13:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;60
+2017-06-19;Lundi;13:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;47
+2017-06-19;Lundi;14:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;64
+2017-06-19;Lundi;14:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;45
+2017-06-19;Lundi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;43
+2017-06-19;Lundi;15:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;71
+2017-06-19;Lundi;15:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;36
+2017-06-19;Lundi;15:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;50
+2017-06-19;Lundi;16:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;22
+2017-06-19;Lundi;17:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;39
+2017-06-19;Lundi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;53
+2017-06-19;Lundi;18:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;89
+2017-06-19;Lundi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;53
+2017-06-19;Lundi;18:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;178
+2017-06-19;Lundi;19:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;89
+2017-06-19;Lundi;19:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;52
+2017-06-19;Lundi;19:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;31
+2017-06-19;Lundi;19:30:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;89
+2017-06-19;Lundi;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;43
+2017-06-19;Lundi;20:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;66
+2017-06-19;Lundi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;31
+2017-06-19;Lundi;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;141
+2017-06-19;Lundi;22:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;74
+2017-06-19;Lundi;22:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;74
+2017-06-19;Lundi;22:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;52
+2017-06-19;Lundi;23:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;44
+2017-06-19;Lundi;23:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;43
+2017-06-20;Mardi;06:00:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;42
+2017-06-20;Mardi;07:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;31
+2017-06-20;Mardi;07:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;89
+2017-06-20;Mardi;09:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;30
+2017-06-20;Mardi;10:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;74
+2017-06-20;Mardi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;44
+2017-06-20;Mardi;10:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;44
+2017-06-20;Mardi;10:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;40
+2017-06-20;Mardi;11:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;37
+2017-06-20;Mardi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;33
+2017-06-20;Mardi;11:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;22
+2017-06-20;Mardi;11:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;96
+2017-06-20;Mardi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;40
+2017-06-20;Mardi;13:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;45
+2017-06-20;Mardi;13:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;29
+2017-06-20;Mardi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;56
+2017-06-20;Mardi;15:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;55
+2017-06-20;Mardi;15:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;26
+2017-06-20;Mardi;16:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;119
+2017-06-20;Mardi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;44
+2017-06-20;Mardi;17:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;71
+2017-06-20;Mardi;17:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;39
+2017-06-20;Mardi;17:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-20;Mardi;17:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;120
+2017-06-20;Mardi;18:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;38
+2017-06-20;Mardi;18:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;26
+2017-06-20;Mardi;19:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;37
+2017-06-20;Mardi;20:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;37
+2017-06-20;Mardi;20:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-20;Mardi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;63
+2017-06-20;Mardi;20:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;48
+2017-06-20;Mardi;21:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;28
+2017-06-20;Mardi;21:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;48
+2017-06-20;Mardi;21:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-20;Mardi;21:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;85
+2017-06-20;Mardi;21:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;37
+2017-06-20;Mardi;21:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;48
+2017-06-20;Mardi;22:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;37
+2017-06-20;Mardi;23:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;37
+2017-06-20;Mardi;23:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;48
+2017-06-21;Mercredi;00:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;56
+2017-06-21;Mercredi;06:00:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;36
+2017-06-21;Mercredi;07:00:00;Zone FIMU;Present;Asie;Japon;Touriste Etranger;Periode normale;36
+2017-06-21;Mercredi;07:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;26
+2017-06-21;Mercredi;07:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;28
+2017-06-21;Mercredi;07:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;37
+2017-06-21;Mercredi;07:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;28
+2017-06-21;Mercredi;08:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;38
+2017-06-21;Mercredi;08:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;46
+2017-06-21;Mercredi;08:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;28
+2017-06-21;Mercredi;09:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;28
+2017-06-21;Mercredi;09:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-21;Mercredi;09:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;28
+2017-06-21;Mercredi;10:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;28
+2017-06-21;Mercredi;10:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-21;Mercredi;10:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;29
+2017-06-21;Mercredi;10:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;38
+2017-06-21;Mercredi;11:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;31
+2017-06-21;Mercredi;11:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;31
+2017-06-21;Mercredi;11:30:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode normale;41
+2017-06-21;Mercredi;11:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-06-21;Mercredi;12:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode normale;41
+2017-06-21;Mercredi;12:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-06-21;Mercredi;12:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;77
+2017-06-21;Mercredi;12:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;58
+2017-06-21;Mercredi;13:00:00;Zone FIMU;Present;Amérique;États-Unis;Touriste Etranger;Periode normale;50
+2017-06-21;Mercredi;13:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;62
+2017-06-21;Mercredi;13:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;37
+2017-06-21;Mercredi;14:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;38
+2017-06-21;Mercredi;14:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;62
+2017-06-21;Mercredi;14:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-06-21;Mercredi;15:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;86
+2017-06-21;Mercredi;15:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-06-21;Mercredi;16:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;31
+2017-06-21;Mercredi;17:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-06-21;Mercredi;17:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;26
+2017-06-21;Mercredi;18:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-06-21;Mercredi;18:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;49
+2017-06-21;Mercredi;18:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;34
+2017-06-21;Mercredi;18:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;53
+2017-06-21;Mercredi;18:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;104
+2017-06-21;Mercredi;19:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;63
+2017-06-21;Mercredi;19:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;29
+2017-06-21;Mercredi;19:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;36
+2017-06-21;Mercredi;19:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;53
+2017-06-21;Mercredi;20:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;29
+2017-06-21;Mercredi;20:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;69
+2017-06-21;Mercredi;20:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;32
+2017-06-21;Mercredi;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;34
+2017-06-21;Mercredi;21:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;93
+2017-06-21;Mercredi;21:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;53
+2017-06-21;Mercredi;23:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;57
+2017-06-21;Mercredi;23:30:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;36
+2017-06-22;Jeudi;00:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;36
+2017-06-22;Jeudi;07:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;29
+2017-06-22;Jeudi;08:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;89
+2017-06-22;Jeudi;09:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-06-22;Jeudi;10:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;27
+2017-06-22;Jeudi;10:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;44
+2017-06-22;Jeudi;10:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;69
+2017-06-22;Jeudi;11:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;46
+2017-06-22;Jeudi;11:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;64
+2017-06-22;Jeudi;11:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;37
+2017-06-22;Jeudi;11:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;39
+2017-06-22;Jeudi;12:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;32
+2017-06-22;Jeudi;12:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;50
+2017-06-22;Jeudi;12:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;61
+2017-06-22;Jeudi;12:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;50
+2017-06-22;Jeudi;13:00:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;41
+2017-06-22;Jeudi;13:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-06-22;Jeudi;13:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;42
+2017-06-22;Jeudi;13:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-06-22;Jeudi;14:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;38
+2017-06-22;Jeudi;15:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;42
+2017-06-22;Jeudi;16:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;50
+2017-06-22;Jeudi;17:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;94
+2017-06-22;Jeudi;17:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;106
+2017-06-22;Jeudi;17:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;42
+2017-06-22;Jeudi;18:00:00;Zone FIMU;Present;Europe;Italie;Touriste Etranger;Periode normale;48
+2017-06-22;Jeudi;19:30:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;151
+2017-06-22;Jeudi;20:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;21
+2017-06-22;Jeudi;20:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;42
+2017-06-22;Jeudi;20:00:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;38
+2017-06-22;Jeudi;21:00:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;63
+2017-06-22;Jeudi;21:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;57
+2017-06-22;Jeudi;21:30:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;79
+2017-06-22;Jeudi;22:00:00;Zone FIMU;Present;Europe;Royaume-Uni;Touriste Etranger;Periode normale;151
+2017-06-22;Jeudi;23:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;46
+2017-06-23;Vendredi;07:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;30
+2017-06-23;Vendredi;07:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;46
+2017-06-23;Vendredi;08:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;46
+2017-06-23;Vendredi;08:30:00;Zone FIMU;Present;Europe;Pays De L'Est;Touriste Etranger;Periode normale;35
+2017-06-23;Vendredi;09:00:00;Zone FIMU;Present;Europe;Belgique+Luxembourg;Touriste Etranger;Periode normale;37
+2017-06-23;Vendredi;10:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;103
+2017-06-23;Vendredi;11:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;90
+2017-06-23;Vendredi;11:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;94
+2017-06-23;Vendredi;11:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;37
+2017-06-23;Vendredi;12:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;110
+2017-06-23;Vendredi;12:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;36
+2017-06-23;Vendredi;13:00:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;40
+2017-06-23;Vendredi;13:00:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;89
+2017-06-23;Vendredi;13:00:00;Zone FIMU;Present;Europe;Autre pays d'Europe;Touriste Etranger;Periode normale;70
+2017-06-23;Vendredi;13:30:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;46
+2017-06-23;Vendredi;13:30:00;Zone FIMU;Present;Europe;Espagne;Touriste Etranger;Periode normale;44
+2017-06-23;Vendredi;14:00:00;Zone FIMU;Present;Autre;Reste Du Monde;Touriste Etranger;Periode normale;44
+2017-06-23;Vendredi;14:30:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;50
+2017-06-23;Vendredi;15:00:00;Zone FIMU;Present;Europe;Suisse;Touriste Etranger;Periode normale;39
+2017-06-23;Vendredi;15:30:00;Zone FIMU;Present;Afrique;Reste Du Monde;Touriste Etranger;Periode normale;39
+2017-06-23;Vendredi;15:30:00;Zone FIMU;Present;Asie;Asie Océanie;Touriste Etranger;Periode normale;87
+2017-06-23;Vendredi;15:30:00;Zone FIMU;Present;Europe;Pays-Bas;Touriste Etranger;Periode normale;55
+2017-06-23;Vendredi;16:30:00;Zone FIMU;Present;Europe;Allemagne;Touriste Etranger;Periode normale;40

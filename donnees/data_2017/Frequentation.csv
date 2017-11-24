@@ -1,0 +1,265 @@
+Date;JourDeLaSemaine;ZoneAnalyse;CategorieVisiteurs;TypeDeVisite;TypeDeJour;Volume
+2017-05-10;Mercredi;Zone FIMU;Resident;Excursionniste;Periode normale;1593
+2017-05-10;Mercredi;Zone FIMU;Resident;Visiteur;Periode normale;14739
+2017-05-10;Mercredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;29
+2017-05-10;Mercredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;172
+2017-05-10;Mercredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1196
+2017-05-10;Mercredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;8001
+2017-05-11;Jeudi;Zone FIMU;Resident;Excursionniste;Periode normale;1690
+2017-05-11;Jeudi;Zone FIMU;Resident;Visiteur;Periode normale;15541
+2017-05-11;Jeudi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;68
+2017-05-11;Jeudi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;223
+2017-05-11;Jeudi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1139
+2017-05-11;Jeudi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7979
+2017-05-12;Vendredi;Zone FIMU;Resident;Excursionniste;Periode normale;2279
+2017-05-12;Vendredi;Zone FIMU;Resident;Visiteur;Periode normale;16380
+2017-05-12;Vendredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;59
+2017-05-12;Vendredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;190
+2017-05-12;Vendredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1668
+2017-05-12;Vendredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7930
+2017-05-14;Dimanche;Zone FIMU;Resident;Excursionniste;Periode normale;900
+2017-05-14;Dimanche;Zone FIMU;Resident;Visiteur;Periode normale;10355
+2017-05-14;Dimanche;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;60
+2017-05-14;Dimanche;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;227
+2017-05-14;Dimanche;Zone FIMU;Touriste Français;Excursionniste;Periode normale;246
+2017-05-14;Dimanche;Zone FIMU;Touriste Français;Visiteur;Periode normale;4591
+2017-05-15;Lundi;Zone FIMU;Resident;Excursionniste;Periode normale;1526
+2017-05-15;Lundi;Zone FIMU;Resident;Visiteur;Periode normale;14422
+2017-05-15;Lundi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;56
+2017-05-15;Lundi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;252
+2017-05-15;Lundi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1028
+2017-05-15;Lundi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7310
+2017-05-16;Mardi;Zone FIMU;Resident;Excursionniste;Periode normale;1727
+2017-05-16;Mardi;Zone FIMU;Resident;Visiteur;Periode normale;15370
+2017-05-16;Mardi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;87
+2017-05-16;Mardi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;245
+2017-05-16;Mardi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;998
+2017-05-16;Mardi;Zone FIMU;Touriste Français;Visiteur;Periode normale;8063
+2017-05-17;Mercredi;Zone FIMU;Resident;Excursionniste;Periode normale;1805
+2017-05-17;Mercredi;Zone FIMU;Resident;Visiteur;Periode normale;14685
+2017-05-17;Mercredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;81
+2017-05-17;Mercredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;246
+2017-05-17;Mercredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;952
+2017-05-17;Mercredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7567
+2017-05-18;Jeudi;Zone FIMU;Resident;Excursionniste;Periode normale;1823
+2017-05-18;Jeudi;Zone FIMU;Resident;Visiteur;Periode normale;15312
+2017-05-18;Jeudi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;143
+2017-05-18;Jeudi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;291
+2017-05-18;Jeudi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1132
+2017-05-18;Jeudi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7759
+2017-05-19;Vendredi;Zone FIMU;Resident;Excursionniste;Periode normale;1382
+2017-05-19;Vendredi;Zone FIMU;Resident;Visiteur;Periode normale;14734
+2017-05-19;Vendredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;41
+2017-05-19;Vendredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;194
+2017-05-19;Vendredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1218
+2017-05-19;Vendredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7757
+2017-05-20;Samedi;Zone FIMU;Resident;Excursionniste;Periode normale;1128
+2017-05-20;Samedi;Zone FIMU;Resident;Visiteur;Periode normale;13094
+2017-05-20;Samedi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;57
+2017-05-20;Samedi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;219
+2017-05-20;Samedi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;745
+2017-05-20;Samedi;Zone FIMU;Touriste Français;Visiteur;Periode normale;6235
+2017-05-21;Dimanche;Zone FIMU;Resident;Excursionniste;Periode normale;1063
+2017-05-21;Dimanche;Zone FIMU;Resident;Visiteur;Periode normale;9783
+2017-05-21;Dimanche;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;31
+2017-05-21;Dimanche;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;152
+2017-05-21;Dimanche;Zone FIMU;Touriste Français;Excursionniste;Periode normale;538
+2017-05-21;Dimanche;Zone FIMU;Touriste Français;Visiteur;Periode normale;4227
+2017-05-22;Lundi;Zone FIMU;Resident;Excursionniste;Periode normale;1666
+2017-05-22;Lundi;Zone FIMU;Resident;Visiteur;Periode normale;13993
+2017-05-22;Lundi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;79
+2017-05-22;Lundi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;200
+2017-05-22;Lundi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1033
+2017-05-22;Lundi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7340
+2017-05-23;Mardi;Zone FIMU;Resident;Excursionniste;Periode normale;1789
+2017-05-23;Mardi;Zone FIMU;Resident;Visiteur;Periode normale;15228
+2017-05-23;Mardi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;93
+2017-05-23;Mardi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;258
+2017-05-23;Mardi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1013
+2017-05-23;Mardi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7526
+2017-05-24;Mercredi;Zone FIMU;Resident;Excursionniste;Periode normale;1715
+2017-05-24;Mercredi;Zone FIMU;Resident;Visiteur;Periode normale;14516
+2017-05-24;Mercredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;70
+2017-05-24;Mercredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;259
+2017-05-24;Mercredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1045
+2017-05-24;Mercredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7132
+2017-05-25;Jeudi;Zone FIMU;Resident;Excursionniste;Periode normale;891
+2017-05-25;Jeudi;Zone FIMU;Resident;Visiteur;Periode normale;8750
+2017-05-25;Jeudi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;90
+2017-05-25;Jeudi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;263
+2017-05-25;Jeudi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;601
+2017-05-25;Jeudi;Zone FIMU;Touriste Français;Visiteur;Periode normale;4716
+2017-05-26;Vendredi;Zone FIMU;Resident;Excursionniste;Periode normale;1171
+2017-05-26;Vendredi;Zone FIMU;Resident;Visiteur;Periode normale;11686
+2017-05-26;Vendredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;108
+2017-05-26;Vendredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;353
+2017-05-26;Vendredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1059
+2017-05-26;Vendredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7057
+2017-05-27;Samedi;Zone FIMU;Resident;Excursionniste;Periode normale;1128
+2017-05-27;Samedi;Zone FIMU;Resident;Visiteur;Periode normale;11378
+2017-05-27;Samedi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;116
+2017-05-27;Samedi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;362
+2017-05-27;Samedi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;761
+2017-05-27;Samedi;Zone FIMU;Touriste Français;Visiteur;Periode normale;6959
+2017-05-28;Dimanche;Zone FIMU;Resident;Excursionniste;Periode normale;798
+2017-05-28;Dimanche;Zone FIMU;Resident;Visiteur;Periode normale;9131
+2017-05-28;Dimanche;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;91
+2017-05-28;Dimanche;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;273
+2017-05-28;Dimanche;Zone FIMU;Touriste Français;Excursionniste;Periode normale;588
+2017-05-28;Dimanche;Zone FIMU;Touriste Français;Visiteur;Periode normale;4736
+2017-05-29;Lundi;Zone FIMU;Resident;Excursionniste;Periode normale;1389
+2017-05-29;Lundi;Zone FIMU;Resident;Visiteur;Periode normale;13682
+2017-05-29;Lundi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;63
+2017-05-29;Lundi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;248
+2017-05-29;Lundi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;888
+2017-05-29;Lundi;Zone FIMU;Touriste Français;Visiteur;Periode normale;6465
+2017-05-30;Mardi;Zone FIMU;Resident;Excursionniste;Periode normale;1740
+2017-05-30;Mardi;Zone FIMU;Resident;Visiteur;Periode normale;14943
+2017-05-30;Mardi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;204
+2017-05-30;Mardi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;273
+2017-05-30;Mardi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;734
+2017-05-30;Mardi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7727
+2017-05-31;Mercredi;Zone FIMU;Resident;Excursionniste;Periode normale;1542
+2017-05-31;Mercredi;Zone FIMU;Resident;Visiteur;Periode normale;14725
+2017-05-31;Mercredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;60
+2017-05-31;Mercredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;248
+2017-05-31;Mercredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;958
+2017-05-31;Mercredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7352
+2017-06-01;Jeudi;Zone FIMU;Resident;Excursionniste;Periode evenement;1505
+2017-06-01;Jeudi;Zone FIMU;Resident;Visiteur;Periode evenement;15919
+2017-06-01;Jeudi;Zone FIMU;Touriste Etranger;Excursionniste;Periode evenement;72
+2017-06-01;Jeudi;Zone FIMU;Touriste Etranger;Visiteur;Periode evenement;277
+2017-06-01;Jeudi;Zone FIMU;Touriste Français;Excursionniste;Periode evenement;813
+2017-06-01;Jeudi;Zone FIMU;Touriste Français;Visiteur;Periode evenement;7214
+2017-06-02;Vendredi;Zone FIMU;Resident;Excursionniste;Periode evenement;2001
+2017-06-02;Vendredi;Zone FIMU;Resident;Visiteur;Periode evenement;17962
+2017-06-02;Vendredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode evenement;164
+2017-06-02;Vendredi;Zone FIMU;Touriste Etranger;Visiteur;Periode evenement;372
+2017-06-02;Vendredi;Zone FIMU;Touriste Français;Excursionniste;Periode evenement;651
+2017-06-02;Vendredi;Zone FIMU;Touriste Français;Visiteur;Periode evenement;8161
+2017-06-03;Samedi;Zone FIMU;Resident;Excursionniste;Periode evenement;1465
+2017-06-03;Samedi;Zone FIMU;Resident;Visiteur;Periode evenement;15466
+2017-06-03;Samedi;Zone FIMU;Touriste Etranger;Excursionniste;Periode evenement;192
+2017-06-03;Samedi;Zone FIMU;Touriste Etranger;Visiteur;Periode evenement;617
+2017-06-03;Samedi;Zone FIMU;Touriste Français;Excursionniste;Periode evenement;887
+2017-06-03;Samedi;Zone FIMU;Touriste Français;Visiteur;Periode evenement;10535
+2017-06-04;Dimanche;Zone FIMU;Resident;Excursionniste;Periode evenement;1948
+2017-06-04;Dimanche;Zone FIMU;Resident;Visiteur;Periode evenement;19727
+2017-06-04;Dimanche;Zone FIMU;Touriste Etranger;Excursionniste;Periode evenement;256
+2017-06-04;Dimanche;Zone FIMU;Touriste Etranger;Visiteur;Periode evenement;760
+2017-06-04;Dimanche;Zone FIMU;Touriste Français;Excursionniste;Periode evenement;1628
+2017-06-04;Dimanche;Zone FIMU;Touriste Français;Visiteur;Periode evenement;17581
+2017-06-05;Lundi;Zone FIMU;Resident;Excursionniste;Periode evenement;1440
+2017-06-05;Lundi;Zone FIMU;Resident;Visiteur;Periode evenement;15108
+2017-06-05;Lundi;Zone FIMU;Touriste Etranger;Excursionniste;Periode evenement;157
+2017-06-05;Lundi;Zone FIMU;Touriste Etranger;Visiteur;Periode evenement;411
+2017-06-05;Lundi;Zone FIMU;Touriste Français;Excursionniste;Periode evenement;1101
+2017-06-05;Lundi;Zone FIMU;Touriste Français;Visiteur;Periode evenement;9643
+2017-06-06;Mardi;Zone FIMU;Resident;Excursionniste;Periode normale;1869
+2017-06-06;Mardi;Zone FIMU;Resident;Visiteur;Periode normale;15240
+2017-06-06;Mardi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;53
+2017-06-06;Mardi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;229
+2017-06-06;Mardi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1000
+2017-06-06;Mardi;Zone FIMU;Touriste Français;Visiteur;Periode normale;6986
+2017-06-07;Mercredi;Zone FIMU;Resident;Excursionniste;Periode normale;2022
+2017-06-07;Mercredi;Zone FIMU;Resident;Visiteur;Periode normale;16103
+2017-06-07;Mercredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;142
+2017-06-07;Mercredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;1117
+2017-06-07;Mercredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;674
+2017-06-07;Mercredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;5021
+2017-06-08;Jeudi;Zone FIMU;Resident;Excursionniste;Periode normale;1670
+2017-06-08;Jeudi;Zone FIMU;Resident;Visiteur;Periode normale;14659
+2017-06-08;Jeudi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;72
+2017-06-08;Jeudi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;235
+2017-06-08;Jeudi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1118
+2017-06-08;Jeudi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7427
+2017-06-09;Vendredi;Zone FIMU;Resident;Excursionniste;Periode normale;1809
+2017-06-09;Vendredi;Zone FIMU;Resident;Visiteur;Periode normale;15356
+2017-06-09;Vendredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;215
+2017-06-09;Vendredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;277
+2017-06-09;Vendredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;529
+2017-06-09;Vendredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7173
+2017-06-10;Samedi;Zone FIMU;Resident;Excursionniste;Periode normale;1212
+2017-06-10;Samedi;Zone FIMU;Resident;Visiteur;Periode normale;13879
+2017-06-10;Samedi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;63
+2017-06-10;Samedi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;235
+2017-06-10;Samedi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1018
+2017-06-10;Samedi;Zone FIMU;Touriste Français;Visiteur;Periode normale;6460
+2017-06-11;Dimanche;Zone FIMU;Resident;Excursionniste;Periode normale;901
+2017-06-11;Dimanche;Zone FIMU;Resident;Visiteur;Periode normale;9222
+2017-06-11;Dimanche;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;77
+2017-06-11;Dimanche;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;185
+2017-06-11;Dimanche;Zone FIMU;Touriste Français;Excursionniste;Periode normale;474
+2017-06-11;Dimanche;Zone FIMU;Touriste Français;Visiteur;Periode normale;4359
+2017-06-12;Lundi;Zone FIMU;Resident;Excursionniste;Periode normale;1610
+2017-06-12;Lundi;Zone FIMU;Resident;Visiteur;Periode normale;13915
+2017-06-12;Lundi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;55
+2017-06-12;Lundi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;221
+2017-06-12;Lundi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;987
+2017-06-12;Lundi;Zone FIMU;Touriste Français;Visiteur;Periode normale;6257
+2017-06-13;Mardi;Zone FIMU;Resident;Excursionniste;Periode normale;1336
+2017-06-13;Mardi;Zone FIMU;Resident;Visiteur;Periode normale;14616
+2017-06-13;Mardi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;68
+2017-06-13;Mardi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;272
+2017-06-13;Mardi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1185
+2017-06-13;Mardi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7487
+2017-06-14;Mercredi;Zone FIMU;Resident;Excursionniste;Periode normale;1677
+2017-06-14;Mercredi;Zone FIMU;Resident;Visiteur;Periode normale;15249
+2017-06-14;Mercredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;70
+2017-06-14;Mercredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;240
+2017-06-14;Mercredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1058
+2017-06-14;Mercredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;6873
+2017-06-15;Jeudi;Zone FIMU;Resident;Excursionniste;Periode normale;1559
+2017-06-15;Jeudi;Zone FIMU;Resident;Visiteur;Periode normale;14866
+2017-06-15;Jeudi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;89
+2017-06-15;Jeudi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;249
+2017-06-15;Jeudi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;923
+2017-06-15;Jeudi;Zone FIMU;Touriste Français;Visiteur;Periode normale;6548
+2017-06-16;Vendredi;Zone FIMU;Resident;Excursionniste;Periode normale;1652
+2017-06-16;Vendredi;Zone FIMU;Resident;Visiteur;Periode normale;15750
+2017-06-16;Vendredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;79
+2017-06-16;Vendredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;297
+2017-06-16;Vendredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1090
+2017-06-16;Vendredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7502
+2017-06-17;Samedi;Zone FIMU;Resident;Excursionniste;Periode normale;1239
+2017-06-17;Samedi;Zone FIMU;Resident;Visiteur;Periode normale;12334
+2017-06-17;Samedi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;117
+2017-06-17;Samedi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;314
+2017-06-17;Samedi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;620
+2017-06-17;Samedi;Zone FIMU;Touriste Français;Visiteur;Periode normale;5858
+2017-06-18;Dimanche;Zone FIMU;Resident;Excursionniste;Periode normale;681
+2017-06-18;Dimanche;Zone FIMU;Resident;Visiteur;Periode normale;9134
+2017-06-18;Dimanche;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;26
+2017-06-18;Dimanche;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;200
+2017-06-18;Dimanche;Zone FIMU;Touriste Français;Excursionniste;Periode normale;410
+2017-06-18;Dimanche;Zone FIMU;Touriste Français;Visiteur;Periode normale;3751
+2017-06-19;Lundi;Zone FIMU;Resident;Excursionniste;Periode normale;1112
+2017-06-19;Lundi;Zone FIMU;Resident;Visiteur;Periode normale;12710
+2017-06-19;Lundi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;41
+2017-06-19;Lundi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;190
+2017-06-19;Lundi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;800
+2017-06-19;Lundi;Zone FIMU;Touriste Français;Visiteur;Periode normale;6144
+2017-06-20;Mardi;Zone FIMU;Resident;Excursionniste;Periode normale;1419
+2017-06-20;Mardi;Zone FIMU;Resident;Visiteur;Periode normale;13633
+2017-06-20;Mardi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;164
+2017-06-20;Mardi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;213
+2017-06-20;Mardi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;779
+2017-06-20;Mardi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7009
+2017-06-21;Mercredi;Zone FIMU;Resident;Excursionniste;Periode normale;1255
+2017-06-21;Mercredi;Zone FIMU;Resident;Visiteur;Periode normale;15122
+2017-06-21;Mercredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;74
+2017-06-21;Mercredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;207
+2017-06-21;Mercredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;930
+2017-06-21;Mercredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;7206
+2017-06-22;Jeudi;Zone FIMU;Resident;Excursionniste;Periode normale;1235
+2017-06-22;Jeudi;Zone FIMU;Resident;Visiteur;Periode normale;12970
+2017-06-22;Jeudi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;83
+2017-06-22;Jeudi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;226
+2017-06-22;Jeudi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;975
+2017-06-22;Jeudi;Zone FIMU;Touriste Français;Visiteur;Periode normale;6330
+2017-06-23;Vendredi;Zone FIMU;Resident;Excursionniste;Periode normale;1557
+2017-06-23;Vendredi;Zone FIMU;Resident;Visiteur;Periode normale;10230
+2017-06-23;Vendredi;Zone FIMU;Touriste Etranger;Excursionniste;Periode normale;68
+2017-06-23;Vendredi;Zone FIMU;Touriste Etranger;Visiteur;Periode normale;172
+2017-06-23;Vendredi;Zone FIMU;Touriste Français;Excursionniste;Periode normale;1090
+2017-06-23;Vendredi;Zone FIMU;Touriste Français;Visiteur;Periode normale;5333
