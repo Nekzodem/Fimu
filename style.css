@@ -10,13 +10,32 @@ nav {
 }
 
 /* Style The Dropdown Button */
-.dropbtn {
-    background-color: #4CAF50;
-    color: white;
+.dropbtnb {
+    color: black;
     padding: 16px;
     font-size: 16px;
     border: none;
     cursor: pointer;
+    background-color: white;
+}
+
+.dropbtnb:hover {
+    background-color: #EE7717;
+    color: white;
+}
+
+.dropbtn {
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    background-color: #C6C6C5;
+}
+
+.dropbtn:hover {
+    background-color: #EE7717;
+    color: white;
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -25,11 +44,15 @@ nav {
     display: inline-block;
 }
 
+.dropdownitem:hover {
+    background-color: #EE7717;
+}
+
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: white;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -44,7 +67,7 @@ nav {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: #EE7717}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
@@ -53,7 +76,7 @@ nav {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-    background-color: #3e8e41;
+    background-color: #EE7717;
 }
 
 #dropdown01:hover {
@@ -61,10 +84,12 @@ nav {
 }
 
 body {
-    background-color: #C6C6C5;
+    background-color: rgb(223, 223, 223);
+    height: 620px;
 }
+
 #main_contain {
-    height: 500px;
+    height: 520px;
     display: flex;
     justify-content: space-between;
 }
@@ -114,11 +139,11 @@ footer {
 
 .twitter {
     margin-left: 700px;
+    padding-top: 2%;
 }
 
-.facebook {
-    width: 16%;
-    height: 16%;
+.Facebook {
+    padding-top: 22%;
 }
 
 .logos {
@@ -126,5 +151,24 @@ footer {
 }
 
 .copyright {
-    margin-left: 90%;
+    margin-left: 98%;
+    padding-top: 4%;
+}
+
+.micro {
+    display: flex;
+    width: 12%;
+    height: 10%;
+    background-color: #C6C6C5;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.cadres {
+    background-color: #C6C6C5;
+}
+
+p {
+    padding-top: 20px;
+    padding-left: 15px;
 }

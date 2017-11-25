@@ -1,57 +1,233 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="author" content="Julie DIETSCH, Samia BOUSSALEM, SPITAELS Rémi, FARION Nicola">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script type='text/javascript' src='http://www.tondomaine.com/lien.js'></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Hackathon Fimu 2017</title>
-</head>
-<body>
-    <header>
-      <nav>
-        <a href="#"> <img class="fimu" src="images/fimu.png" alt="Logo Fimu"></a>
-        <div class="dropdown">
-          <button class="dropbtn">Jours</button>
-          <div class="dropdown-content">
-            <a href="#">Jeudi</a>
-            <a href="#">Vendredi</a>
-            <a href="#">Samedi</a>
-            <a href="#">Dimanche</a>
-            <a href="#">Lundi</a>
-          </div>
-        </div>
-          <a href="#"><img class="ACS" src="images/acs.png" alt="Logo ACS"></a>
-          <a href="#"><img class="orange" src="images/orange.png" alt="Logo Orange"></a>
-        </nav>
-    </header>
-    <section id="main_contain">
-        <div id="section_1">
-            <div style="width:400px;height:600px;border:2px solid #999999;"></div>
-        </div>
-        <div id="section_2">
-            <img class="zone" src="FIMU_Zone_Presence.png" alt="Carte">
-        </div>
-        <div id="section_3">
-            <div style="width:400px;height:600px;border:2px solid #999999;"></div>
-        </div>
-    </section>
-    <footer>
-      <div id="fimu">
-        <a href="#"><img class="fimu" src="images/fimu.png" alt="Logo Fimu"></a>
-      </div>
-        <div id="copy">
-          <p class="copyright">Copyright</p>
-        </div>
-        <a href="#"><img class="twitter" src="images/twitter.png" alt="Logo Twitter"></a>
-        <a href="#"><img class="Facebook" src="images/facebook.png" alt="Logo Facebook"></a>
-    </footer>
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-  </body>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="author" content="Julie DIETSCH, Samia BOUSSALEM, SPITAELS Rémi, FARION Nicola">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <script type='text/javascript' src='http://www.tondomaine.com/lien.js'></script>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+      <link rel="stylesheet" href="style.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <title>Hackathon Fimu 2017</title>
+   </head>
+   <body>
+      <header>
+         <nav>
+            <a href="#"> <img class="fimu" src="images/fimu.png" alt="Logo Fimu"></a>
+            <div class="dropdown">
+               <button class="dropbtnb">Jours</button>
+               <div class="dropdown-content">
+                  <a class="dropdownitem" href="#">Jeudi</a>
+                  <a class="dropdownitem" href="#">Vendredi</a>
+                  <a class="dropdownitem" href="#">Samedi</a>
+                  <a class="dropdownitem" href="#">Dimanche</a>
+                  <a class="dropdownitem" href="#">Lundi</a>
+               </div>
+            </div>
+            <a href="http://www.accesscodeschool.fr/"><img class="ACS" src="images/acs.png" alt="Logo ACS"></a>
+            <a href="#"><img class="orange" src="images/orange.png" alt="Logo Orange"></a>
+         </nav>
+      </header>
+      <section id="main_contain">
+         <div id="section_1">
+            <div class="cadres"style="width:400px;height:620px;border:2px solid #999999;">
+               <div class="dropdown">
+                  <button class="dropbtn">Cathédrale Saint Christophe</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">Camerata NovNorte (Portugal)
+                     15 h 00 - 16 h 00</a>
+                     <a class="dropdownitem" href="#">Gloria Children’s Choir (Ukraine)
+                     16 h 45 - 17 h 45</a>
+                     <a class="dropdownitem" href="#">University Choir Mladost (Slovaquie)
+                     18 h 30 - 19 h 30</a>
+                     <a class="dropdownitem" href="#">Aachener Studentenchor der Katholischen Hochschulgemeinde (Allemagne)
+                     20 h 15 - 21 h 15</a>
+                  </div>
+               </div>
+               <br>
+               <div class="dropdown">
+                  <button class="dropbtn">Scène de l'Arsenal</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">1000 Chevaux-Vapeur (France)
+                     15 h 00 - 16 h 00</a>
+                     <a class="dropdownitem" href="#"> Kespar & Linkrust (France)
+                     16 h 45 - 17 h 45</a>
+                     <a class="dropdownitem" href="#">Faoba – Darwin Medina (Colombie)
+                     18 h 30 - 19 h 30</a>
+                     <a class="dropdownitem" href="#">Noctiferia (Slovénie)
+                     20 h 15 - 21 h 15</a>
+                     <a class="dropdownitem" href="#">Ben Bop (France/Sénégal)
+                     22 h 00 - 23 h 00</a>
+                     <a class="dropdownitem" href="#">Païaka (France)
+                     23 h 45 - 0 h 45 </a>
+                  </div>
+               </div>
+               <br>
+               <div class="dropdown">
+                  <button class="dropbtn">Scène Jazz</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">Swingtime Band (République Tchèque)
+                     14 h 00 - 15 h 00</a>
+                     <a class="dropdownitem" href="#">Bandoneon Square (Bosnie-Herzégovine)
+                     15 h 45 - 16 h 45</a>
+                     <a class="dropdownitem" href="#">Erik Truffaz (France/Suisse)
+                     17 h 30 - 18 h 30</a>
+                     <a class="dropdownitem" href="#">ITJ (France)
+                     19 h 15 - 20 h 15</a>
+                     <a class="dropdownitem" href="#">nOx.3 (France)
+                     21 h 00 - 22 h 00</a>
+                     <a class="dropdownitem" href="#">Square (France)
+                     22 h 45 - 23 h 45</a>
+                  </div>
+               </div>
+               <br>
+               <div class="dropdown">
+                  <button class="dropbtn">Hôtel du département</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">Francisextet (République Tchèque)
+                     15 h 00 - 16 h 00</a>
+                     <a class="dropdownitem" href="#">Trio Anima (Serbie)
+                     16 h 45 - 17 h 45</a>
+                  </div>
+               </div>
+               <br>
+               <div class="dropdown">
+                  <button class="dropbtn">Kiosque à musique</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">Cuarteto Kuikani (Mexique)
+                     14 h 00 - 15 h 00</a>
+                     <a class="dropdownitem" href="#">Chaman-chômeur (France)
+                     15 h 45 - 16 h 45</a>
+                     <a class="dropdownitem" href="#">Stray Local (États-Unis)
+                     17 h 30 - 18 h 30</a>
+                     <a class="dropdownitem" href="#">Les Mercières (France)
+                     19 h 15 - 20 h 15</a>
+                     <a class="dropdownitem" href="#">Yelé (France)
+                     21 h 00 - 22 h 00</a>
+                     <a class="dropdownitem" href="#">Vent D’boute (Canada)
+                     22 h 45 - 23 h 45</a>
+                  </div>
+               </div>
+               <br>
+               <div class="dropdown">
+                  <button class="dropbtn">Grande Salle Atria</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">Studentenorchester Münster (Allemagne)
+                     14 h 00 - 15 h 00</a>
+                     <a class="dropdownitem" href="#">Jeune Orchestre Symphonique du CRR du Grand Besançon (France)
+                     16 h 30 - 17 h 30</a>
+                     <a class="dropdownitem" href="#">Banda Sinfonica Universitat Politecnica de Valencia (Espagne)
+                     19 h 00 - 20 h 00</a>
+                     <a class="dropdownitem" href="#">Jugendorchester der Blasmusikschule Kehl (Allemagne)
+                     21 h 30 - 22 h 30</a>
+                  </div>
+               </div>
+               <br>
+               <div class="dropdown">
+                  <button class="dropbtn">Scène Corbis</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">Huw Eddy & The Carnival (Angleterre)
+                     14 h 00 - 15 h 00</a>
+                     <a class="dropdownitem" href="#">LasasaL (France)
+                     15 h 45 - 16 h 45</a>
+                     <a class="dropdownitem" href="#">Amelie McCandless (France)
+                     17 h 30 - 18 h 30</a>
+                     <a class="dropdownitem" href="#">Blockstop (France)
+                     19 h 15 - 20 h 15</a>
+                     <a class="dropdownitem" href="#">Big Junior (France)
+                     21 h 00 - 22 h 00</a>
+                     <a class="dropdownitem" href="#">The Fre3 Bastards (France)
+                     22 h 45 - 23 h 45</a>
+                  </div>
+               </div>
+               <br>
+               <div class="dropdown">
+                  <button class="dropbtn">Théâtre Granit</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">Orchestra of Conservatory of the Municipality of Amaroussion (Grèce)
+                     14 h 00 - 15 h 00</a>
+                     <a class="dropdownitem" href="#">Orchestre Chabab Al Andalous (Maroc)
+                     15 h 45 - 16 h 45</a>
+                     <a class="dropdownitem" href="#">Mabiisi (Ghana/Burkina Faso)
+                     17 h 30 - 18 h 30</a>
+                     <a class="dropdownitem" href="#">Lasanthi (Sri Lanka/ Slovénie)
+                     19 h 15 - 20 h 15</a>
+                     <a class="dropdownitem" href="#">Fest-Orchestra (Russie)
+                     21 h 00 - 22 h 00 </a>
+                  </div>
+               </div>
+               <br>
+               <div class="dropdown">
+                  <button class="dropbtn">Scène de la République</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">Anastasia (France)
+                     15 h 00 - 16 h 00</a>
+                     <a class="dropdownitem" href="#">Djeli Koura (Burkina Faso)
+                     16 h 45 - 17 h 45</a>
+                     <a class="dropdownitem" href="#">OMG et Mamy Victory (Sénégal)
+                     18 h 30 - 19 h 30</a>
+                     <a class="dropdownitem" href="#">Moon (France)
+                     20 h 15 - 21 h 15</a>
+                     <a class="dropdownitem" href="#">Harbor (France)
+                     22 h 00 - 23 h 00</a>
+                  </div>
+               </div>
+               <br>
+               <div class="dropdown">
+                  <button class="dropbtn">Auditorium Atria</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">Prague Conservatoire String Orchestra (République Tchèque)
+                     15 h 00 - 16 h 00</a>
+                     <a class="dropdownitem" href="#">Abaco-Orchester (Allemagne)
+                     17 h 30 - 18 h 30</a>
+                     <a class="dropdownitem" href="#">Groninger Studentenorkest Mira (Pays-Bas)
+                     20 h 00 - 21 h 00</a>
+                  </div>
+               </div>
+               <br>
+               <div class="dropdown">
+                  <button class="dropbtn">Scène de la Savoureuse</button>
+                  <div class="dropdown-content">
+                     <a class="dropdownitem" href="#">Mouse DTC (France)
+                     14 h 30 - 15 h 30</a>
+                     <a class="dropdownitem" href="#">Kvintet Orkestra (France)
+                     16 h 15 - 17 h 15</a>
+                     <a class="dropdownitem" href="#">Nouvelle R (Canada)
+                     18 h 00 - 19 h 00</a>
+                     <a class="dropdownitem" href="#">Deyosan (France)
+                     19 h 45 - 20 h 45</a>
+                     <a class="dropdownitem" href="#">Albinoid Sound System (France)
+                     21 h 30 - 22 h 30</a>
+                     <a class="dropdownitem" href="#">ProleterE (France)
+                     23 h 15 - 0 h 15</a>
+                  </div>
+               </div>
+               <br>
+            </div>
+         </div>
+         <div id="section_2">
+            <img class="zone" src="images/FIMU_Zone_Presence.png" alt="Carte">
+         </div>
+         <div id="section_3">
+            <div class="micro" style="width:400px;height:620px;border:2px solid #999999;">
+               <img class="micro" src="images/06.png" alt="Micro">
+               <p>Scènes</p>
+            </div>
+         </div>
+      </section>
+      <footer>
+         <div id="fimu">
+            <a href="#"><img class="fimu" src="images/fimu.png" alt="Logo Fimu"></a>
+         </div>
+         <div id="copy">
+            <p class="copyright">Copyright</p>
+         </div>
+         <a href="https://twitter.com/fimubelfort"><img class="twitter" src="images/twitter.png" alt="Logo Twitter"></a>
+         <a href="https://www.facebook.com/FimuOfficiel"><img class="Facebook" src="images/facebook.png" alt="Logo Facebook"></a>
+      </footer>
+      <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+   </body>
 </html>
